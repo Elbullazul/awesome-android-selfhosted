@@ -5,12 +5,13 @@ This a list of known Android apps that work with services that are self-hostable
 ## Colors
 
 > - 💵: app is paid in this store
+> - 🗝️: app requires a license
 > - 🟡: development is paused
 > - 🟠: app is unmaintained, but works
 > - 🔴: app is unmaintaned and broken
 
 ## Bookmarks
-- Briefkasten: HTTP Shortcuts ([F-Droid](https://f-droid.org/en/packages/ch.rmy.android.http_shortcuts/), [setup instructions](https://github.com/ndom91/briefkasten/tree/main#-related))
+- Briefkasten: HTTP Shortcuts ([F-Droid](https://f-droid.org/en/packages/ch.rmy.android.http_shortcuts/) - [setup instructions](https://github.com/ndom91/briefkasten/tree/main#-related))
 - Nextcloud:
   1. Bookmarks for Nextcloud ([Play Store](https://play.google.com/store/apps/details?id=de.emasty.bookmarks))
   2. floccus bookmark sync ([F-Droid](https://f-droid.org/en/packages/org.handmadeideas.floccus/), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.handmadeideas.floccus))
@@ -33,15 +34,15 @@ This a list of known Android apps that work with services that are self-hostable
   2. Otter 🟠 ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.github.apognu.otter))
   - *also works with subsonic clients*
 - Jellyfin:
-  1. boum ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.eindm.boum), *music only*)
-  2. Findroid ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin), *videos only*)
-  3. Finamp ([F-Droid](https://f-droid.org/en/packages/com.unicornsonlsd.finamp), *music only*)
-  4. Fintunes ([F-Droid](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer), *music only*)
-  5. Gelli ([F-Droid](https://f-droid.org/en/packages/com.dkanada.gramophone), *music only*)
+  1. boum ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.eindm.boum) - *music only*)
+  2. Findroid ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin) - *videos only*)
+  3. Finamp ([F-Droid](https://f-droid.org/en/packages/com.unicornsonlsd.finamp) - *music only*)
+  4. Fintunes ([F-Droid](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer) - *music only*)
+  5. Gelli ([F-Droid](https://f-droid.org/en/packages/com.dkanada.gramophone) - *music only*)
   6. Jellyfin ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.mobile))
-  7. JellyBook ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.KaraWilson.JellyBook), *ebooks only*)
+  7. JellyBook ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.KaraWilson.JellyBook) - *ebooks only*)
   8. Jellyfin for Android TV ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv))
-  8. Symfonium ([Google Play](https://play.google.com/store/apps/details?id=app.symfonik.music.player), *music only*)
+  8. Symfonium ([Google Play](https://play.google.com/store/apps/details?id=app.symfonik.music.player) - *music only*)
 - Subsonic:
   1. Audinaut 🟠 ([F-Droid](https://f-droid.org/en/packages/net.nullsum.audinaut))
   2. DSub 🟠 ([F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/github.daneren2005.dsub), [Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub))
@@ -71,14 +72,14 @@ This a list of known Android apps that work with services that are self-hostable
   6. Saber ([F-Droid](https://f-droid.org/en/packages/com.adilhanney.saber))
   7. WD Notes ([F-Droid](https://f-droid.org/en/packages/es.ideotec.wdnotes))
 - Tasks:
-  1. Doable (WebDAV)
+  1. Doable ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.flobii.doable))
   2. jtx Board ([F-Droid](https://f-droid.org/en/packages/at.techbee.jtx))
   3. OpenTasks 🟠 ([F-Droid](https://f-droid.org/en/packages/org.dmfs.tasks))
   4. OpenTodoList ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.rpdev.opentodolist))
   4. Tasks.org ([F-Droid](https://f-droid.org/en/packages/org.tasks))
   5. Simpletask - WebDAV ([F-Droid](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask.webdav))
 - Other:
-  1. Cryptomator ([💵 Cryptomator F-Droid repository](https://static.cryptomator.org/android/fdroid/repo?fingerprint=F7C3EC3B0D588D3CB52983E9EB1A7421C93D4339A286398E71D7B651E8D8ECDD), [💵 F-Droid](https://f-droid.org/en/packages/org.cryptomator.lite), [💵 IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.cryptomator), [💵 GitHub](https://github.com/cryptomator/android/releases), [💵 Google Play](https://play.google.com/store/apps/details?id=org.cryptomator))
+  1. Cryptomator 🗝️ ([Cryptomator F-Droid repository](https://static.cryptomator.org/android/fdroid/repo?fingerprint=F7C3EC3B0D588D3CB52983E9EB1A7421C93D4339A286398E71D7B651E8D8ECDD), [F-Droid](https://f-droid.org/en/packages/org.cryptomator.lite), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.cryptomator), [GitHub](https://github.com/cryptomator/android/releases), [💵 Google Play](https://play.google.com/store/apps/details?id=org.cryptomator))
   2. floccus bookmark sync ([F-Droid](https://f-droid.org/en/packages/org.handmadeideas.floccus/), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.handmadeideas.floccus))
   3. Round Sync - Rclone for Android ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract))
   4. My Expenses ([F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses))
@@ -103,11 +104,11 @@ This a list of known Android apps that work with services that are self-hostable
 - Matrix
   1. Element ([F-Droid](https://f-droid.org/en/packages/im.vector.app))
   2. FluffyChat ([F-Droid](https://f-droid.org/en/packages/chat.fluffy.fluffychat))
-  3. NeoChat ([GitHub](https://github.com/KDE/neochat), no binaries)  ==pending==
+  3. NeoChat ([KDE Nightly F-Droid repository](https://cdn.kde.org/android/fdroid/repo/?fingerprint=B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F), [GitHub](https://github.com/KDE/neochat) - no binaries)
   4. SchildiChat ([F-Droid](https://f-droid.org/en/packages/de.spiritcroc.riotx))
   5. SmallTalk ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.dapk.st))
   6. Syphon 🟠 ([F-Droid](https://f-droid.org/en/packages/org.tether.tether))
-- Mattermost: Mattermost Beta ([F-Droid](https://f-droid.org/en/packages/com.mattermost.rnbeta ))
+- Mattermost: Mattermost Beta ([F-Droid](https://f-droid.org/en/packages/com.mattermost.rnbeta))
 - Mumble: Mumla ([F-Droid](https://f-droid.org/en/packages/se.lublin.mumla))
 - Nextcloud Talk: Nextcloud Talk ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.talk2))
 - Rocket.Chat: Rocket.Chat ([F-Droid](https://f-droid.org/en/packages/chat.rocket.android))
@@ -123,7 +124,7 @@ This a list of known Android apps that work with services that are self-hostable
 
 ## Photos
 - Immich: Immich ([F-Droid](https://f-droid.org/en/packages/app.alextran.immich))
-- Librephotos: Librephotos Mobile ([GitHub](https://github.com/LibrePhotos/librephotos/tags), no binaries)
+- Librephotos: Librephotos Mobile ([GitHub](https://github.com/LibrePhotos/librephotos-mobile/releases))
 - Nextcloud Photos:
   1. Les Pas ([F-Droid](https://f-droid.org/en/packages/site.leos.apps.lespas))
   2. Nextcloud Yaga ([F-Droid](https://f-droid.org/en/packages/com.github.vauvenal5.yaga))
@@ -241,8 +242,9 @@ This a list of known Android apps that work with services that are self-hostable
   1. GitNex ([F-Droid](https://f-droid.org/en/packages/org.mian.gitnex))
   2. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
 - GitLab:
-  1. LabCoat + Deep Links for LabCoat ([F-Droid](https://f-droid.org/en/packages/com.commit451.gitlab) + [F-Droid](https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks))
-  2. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
+  1. Deep Links for LabCoat ([F-Droid](https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks))
+  2. LabCoat ([F-Droid](https://f-droid.org/en/packages/com.commit451.gitlab))
+  3. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
 
 ## GPS and tracking
 - FindMyDeviceServer: Find My Device ([F-Droid](https://f-droid.org/en/packages/de.nulide.findmydevice))
@@ -262,9 +264,9 @@ This a list of known Android apps that work with services that are self-hostable
   3. HoloPlay ([F-Droid](https://f-droid.org/en/packages/com.holoplay))
 - LightTube: LightTube ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.kuylar.lighttube))
 - Piped
-  1. Harmony Music ([F-Droid](https://f-droid.org/en/packages/com.anandnet.harmonymusic/), *music only*)
+  1. Harmony Music ([F-Droid](https://f-droid.org/en/packages/com.anandnet.harmonymusic/) - *music only*)
   1. LibreTube ([F-Droid](https://f-droid.org/en/packages/com.github.libretube), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube))
-  2. Vibe You ([F-Droid](https://f-droid.org/en/packages/app.suhasdissa.vibeyou), *music only*)
+  2. Vibe You ([F-Droid](https://f-droid.org/en/packages/app.suhasdissa.vibeyou) - *music only*)
 
 ## Note taking
 - Joplin:
@@ -285,7 +287,7 @@ Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwrit
 - FileBin: FileBin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile))
 - Kanboard: Khanos ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.gojaponte.khanos))
 - Linx: LinxShare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.thegraveyard.linxshare))
-- Mail forwarding **(not sure how this is self-hostable)**
+- Mail forwarding
   1. addy.io ([F-Droid](https://f-droid.org/en/packages/host.stjin.anonaddy))
   2. SimpleLogin ([F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid))
 - Moodle: dawdle ([F-Droid](https://f-droid.org/en/packages/godau.fynn.moodledirect))
@@ -307,18 +309,16 @@ Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwrit
 - TiddlyWiki: Tiddloid ([F-Droid](https://f-droid.org/en/packages/top.donmor.tiddloid))
 
 ## Password managers
-- Bitwarden & Vaultwarden: Bitwarden ([Bitwarden F-Droid repository](https://mobileapp.bitwarden.com/fdroid/), [GitHub](https://github.com/bitwarden/mobile/releases), [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden))\*
+- Bitwarden & Vaultwarden: Bitwarden ([Bitwarden F-Droid repository](https://mobileapp.bitwarden.com/fdroid/), [GitHub](https://github.com/bitwarden/mobile/releases), [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden))
 - KeePass:
-  1. KeePassDX
+  1. KeePassDX ([F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free))
   2. KPassNotes ([F-Droid](https://f-droid.org/en/packages/com.ivanovsky.passnotes))
-  3. OneKeePass
-  4. Vault
+  3. OneKeePass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.onekeepassmobile))
+  4. Vault ([F-Droid](https://f-droid.org/en/packages/com.arsvechkarev.vault))
 - Nextcloud Passwords:
   1. NC Passwords ([F-Droid](https://f-droid.org/en/packages/de.jbservices.nc_passwords_app))
   2. Nextcloud Passwords ([F-Droid](https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords))
   3. NextPass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.seldon1000.nextpass))
----
-\* [why Bitwarden is not released (yet) on F-Droid](https://github.com/bitwarden/mobile/issues/6#issuecomment-584002060)
 
 ## Fediverse
 - diaspora*:
@@ -341,7 +341,7 @@ Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwrit
   14. twitlatte ([F-Droid](https://f-droid.org/en/packages/com.github.moko256.twitlatte))
   15. Trunks for Mastodon ([Google Play](https://play.google.com/store/apps/details?id=com.decad3nce.trunks))
   16. Tusky ([F-Droid](https://f-droid.org/en/packages/com.keylesspalace.tusky), [Google Play](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky))
-  17. Twidere 🔴 ([F-Droid](https://f-droid.org/en/packages/org.mariotaku.twidere/), [GitHub](https://github.com/TwidereProject/Twidere-Android/releases))
+  17. Twidere 🟠 ([F-Droid](https://f-droid.org/en/packages/org.mariotaku.twidere/), [GitHub](https://github.com/TwidereProject/Twidere-Android/releases))
   18. Twidere X ([F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex), [GitHub](https://github.com/TwidereProject/TwidereX-Android/releases))
   19. Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Google Play](https://play.google.com/store/apps/details?id=net.accelf.yuito))
 - Pleroma/Akkoma:
