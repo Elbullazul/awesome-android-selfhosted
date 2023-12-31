@@ -2,7 +2,8 @@
 
 This a list of known Android apps that work with services that are self-hostable.
 
-## Colors
+## Colors
+
 > - 💵: app is paid in this store
 > - 🟡: development is paused
 > - 🟠: app is unmaintained, but works
