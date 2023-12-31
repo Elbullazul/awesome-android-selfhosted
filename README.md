@@ -2,7 +2,7 @@
 
 This a list of known Android apps that work with services that are self-hostable.
 
-> ## Colors
+## Colors
 > - 💵: app is paid in this store
 > - 🟡: development is paused
 > - 🟠: app is unmaintained, but works
@@ -183,7 +183,7 @@ This a list of known Android apps that work with services that are self-hostable
   6. ZeroTier One ([Google Play](https://play.google.com/store/apps/details?id=com.zerotier.one))
 
 ## Ebooks
-- Komga/Kavita: Tachiyomi (with plugins)
+- Komga/Kavita: Tachiyomi + plugins ([GitHub](https://github.com/tachiyomiorg/tachiyomi/releases))
 - OPDS ([more apps here](https://wiki.mobileread.com/wiki/OPDS)):
   1. FBReader 🟠 ([F-Droid](https://f-droid.org/en/packages/org.geometerplus.zlibrary.ui.android))
   2. Librera Pro ([Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader), [GitHub](https://github.com/foobnix/LibreraReader/releases))
