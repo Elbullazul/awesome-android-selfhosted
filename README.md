@@ -177,7 +177,7 @@ This a list of known Android apps that work with services that are self-hostable
   2. Asgradius S3 Music ([F-Droid](https://f-droid.org/en/packages/asgardius.page.s3music), [Google Play](https://play.google.com/store/apps/details?id=asgardius.page.s3music))
 - UptimeRobot: UptimeRobot ([Google Play](https://play.google.com/store/apps/details?id=com.uptimerobot))
 - VPNs:
-  1. OpenVPN ([F-Droid]())
+  1. OpenVPN for Android ([F-Droid](https://f-droid.org/en/packages/de.blinkt.openvpn))
   2. Tailscale ([F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn), [Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn))
   3. WG Tunnel - Wireguard ([F-Droid](https://f-droid.org/en/packages/com.zaneschepke.wireguardautotunnel))
   4. Wireguard ([Google Play](https://play.google.com/store/apps/details?id=com.wireguard.android), [Self-updateable binary](https://download.wireguard.com/android-client/))
