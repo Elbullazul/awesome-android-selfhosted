@@ -141,7 +141,7 @@ This a list of known Android apps that work with services that are self-hostable
 - Deluge:
   1. Transdroid ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search))
   2. Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite))
-  3. Trireme (deluge)
+  3. Trireme ([F-Droid](https://f-droid.org/en/packages/org.deluge.trireme))
 - PyLoad: pyLoad 🔴 ([F-Droid](https://f-droid.org/en/packages/org.pyload.android.client))
 - qBittorrent:
   1. qBitController ([F-Droid](https://f-droid.org/en/packages/dev.bartuzen.qbitcontroller), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.bartuzen.qbitcontroller))
