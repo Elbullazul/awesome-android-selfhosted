@@ -10,6 +10,31 @@ This a list of known Android apps that work with services that are self-hostable
 > - 🟠: app is unmaintained, but works
 > - 🔴: app is unmaintaned and broken
 
+## Table of contents
+- [Bookmarks](#bookmarks)
+- [Cloud sync](#cloud-sync)
+- [Code forges](#code-forges)
+- [Communication](#communication)
+- [Cooking & recipes](#cooking--recipes)
+- [Download/Torrent client remote control](#downloadtorrent-client-remote-control)
+- [Ebooks](#ebooks)
+- [Fediverse clients](#fediverse-clients)
+- [File sync](#file-sync)
+- [Finance](#finance-apps)
+- [GPS and tracking](#gps-and-tracking)
+- [Home automation](#home-automation)
+- [Media streaming](#media-streaming)
+- [Miscellaneous](#miscellaneous)
+- [Monitors & management apps](#monitors-and-management-clients)
+- [Note-taking](#note-taking)
+- [Password managers](#password-managers)
+- [Photos](#photos)
+- [RSS clients](#rss-clients)
+- [Time tracking](#time-tracking)
+- [WebDAV](#webdav)
+- [Wikis](#wikis)
+- [YouTube proxies](#youtube-proxies)
+
 ## Bookmarks
 - Briefkasten: HTTP Shortcuts ([F-Droid](https://f-droid.org/en/packages/ch.rmy.android.http_shortcuts/) - [setup instructions](https://github.com/ndom91/briefkasten/tree/main#-related))
 - Nextcloud:
@@ -22,38 +47,6 @@ This a list of known Android apps that work with services that are self-hostable
   1. KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid))
   2. wallabag ([F-Droid](https://f-droid.org/en/packages/fr.gaulupeau.apps.InThePoche))
 
-## Media streaming
-- Audioserve: audioserve ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.zderadicka.audioserve))
-- Audiobookshelf: Audiobookshelf ([Play Store](https://play.google.com/store/apps/details?id=com.audiobookshelf.app), [GitHub](https://github.com/advplyr/audiobookshelf-app/releases/))
-- Ampache:
-  1. Amdroid 🟠 ([F-Droid](https://f-droid.org/en/packages/com.sound.ampache))
-  2. Power Ampache 🟠 ([F-Droid](https://f-droid.org/en/packages/com.antoniotari.reactiveampacheapp))
-  - *also works with subsonic clients*
-- Funkwhale:
-  1. Funkwhale for Android ([F-Droid](https://f-droid.org/en/packages/audio.funkwhale.ffa))
-  2. Otter 🟠 ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.github.apognu.otter))
-  - *also works with subsonic clients*
-- Jellyfin:
-  1. boum ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.eindm.boum) - *music only*)
-  2. Findroid ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin) - *videos only*)
-  3. Finamp ([F-Droid](https://f-droid.org/en/packages/com.unicornsonlsd.finamp) - *music only*)
-  4. Fintunes ([F-Droid](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer) - *music only*)
-  5. Gelli ([F-Droid](https://f-droid.org/en/packages/com.dkanada.gramophone) - *music only*)
-  6. Jellyfin ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.mobile))
-  7. JellyBook ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.KaraWilson.JellyBook) - *ebooks only*)
-  8. Jellyfin for Android TV ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv))
-  8. Symfonium ([Google Play](https://play.google.com/store/apps/details?id=app.symfonik.music.player) - *music only*)
-- Subsonic:
-  1. Audinaut 🟠 ([F-Droid](https://f-droid.org/en/packages/net.nullsum.audinaut))
-  2. DSub 🟠 ([F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/github.daneren2005.dsub), [Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub))
-  3. SonicLair ([Google Play](https://play.google.com/store/apps/details?id=tech.logica10.soniclair), [GitHub](https://github.com/thelinkin3000/SonicLair))
-  4. SubTracks ([F-Droid](https://f-droid.org/en/packages/com.subtracks), [GitHub](https://github.com/austinried/subtracks/releases), [Google Play](https://play.google.com/store/apps/details?id=com.subtracks))
-  5. SubTune ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/cc.taylorzhang.subtune))
-  6. substreamer ([Google Play](https://play.google.com/store/apps/details?id=com.ghenry22.substream2))
-  7. Symfonium ([Google Play](https://play.google.com/store/apps/details?id=app.symfonik.music.player))
-  8. Tempo ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.cappielloantonio.tempo))
-  9. Ultrasonic ([F-Droid](https://f-droid.org/en/packages/org.moire.ultrasonic), [Google Play](https://play.google.com/store/apps/details?id=org.moire.ultrasonic))
-
 ## Cloud sync
 - Nextcloud
   1. Nextcloud ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.client))
@@ -61,39 +54,14 @@ This a list of known Android apps that work with services that are self-hostable
 - ownCloud: ownCloud ([F-Droid](https://f-droid.org/en/packages/com.owncloud.android))
 - Seafile: Seafile ([F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2))
 
-## WebDAV
-- CalDAV & CardDAV sync: DAVx5 ([F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.bitfire.davdroid))
-- Notes:
-  1. Carnet ([F-Droid](https://f-droid.org/en/packages/com.spisoft.quicknote))
-  2. Joplin ([F-Droid](https://f-droid.org/en/packages/net.cozic.joplin), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin))
-  3. jtx Board ([F-Droid](https://f-droid.org/en/packages/at.techbee.jtx))
-  4. Linwood Buttefly ([F-Droid](https://f-droid.org/en/packages/dev.linwood.butterfly))
-  5. Orgzly Revived ([F-Droid](https://f-droid.org/en/packages/com.orgzlyrevived))
-  6. Saber ([F-Droid](https://f-droid.org/en/packages/com.adilhanney.saber))
-  7. WD Notes ([F-Droid](https://f-droid.org/en/packages/es.ideotec.wdnotes))
-- Tasks:
-  1. Doable ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.flobii.doable))
-  2. jtx Board ([F-Droid](https://f-droid.org/en/packages/at.techbee.jtx))
-  3. OpenTasks 🟠 ([F-Droid](https://f-droid.org/en/packages/org.dmfs.tasks))
-  4. OpenTodoList ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.rpdev.opentodolist))
-  4. Tasks.org ([F-Droid](https://f-droid.org/en/packages/org.tasks))
-  5. Simpletask - WebDAV ([F-Droid](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask.webdav))
-- Other:
-  1. Cryptomator 🗝️ ([Cryptomator F-Droid repository](https://static.cryptomator.org/android/fdroid/repo?fingerprint=F7C3EC3B0D588D3CB52983E9EB1A7421C93D4339A286398E71D7B651E8D8ECDD), [F-Droid](https://f-droid.org/en/packages/org.cryptomator.lite), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.cryptomator), [GitHub](https://github.com/cryptomator/android/releases), [💵 Google Play](https://play.google.com/store/apps/details?id=org.cryptomator))
-  2. floccus bookmark sync ([F-Droid](https://f-droid.org/en/packages/org.handmadeideas.floccus/), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.handmadeideas.floccus))
-  3. Round Sync - Rclone for Android ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract))
-  4. My Expenses ([F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses))
-
-## File sync
-- Docspell: Docspell share 🟠 ([F-Droid](https://f-droid.org/en/packages/org.docspell.docspellshare))
-- Paperless:
-  1. Paperless 🟠 ([F-Droid](https://f-droid.org/en/packages/eu.bauerj.paperless_app), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app))
-  2. Paperless Mobile ([F-Droid](https://f-droid.org/en/packages/de.astubenbord.paperless_mobile), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app))
-  3. Paperless Share (upload only) 🟠 ([F-Droid](https://f-droid.org/en/packages/com.quinncasey.paperless_share), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.quinncasey.paperless_share))
-- Syncthing:
-  1. Syncthing ([F-Droid](https://f-droid.org/en/packages/com.nutomic.syncthingandroid))
-  2. Syncthing-Fork ([F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid))
-  3. Syncthing-Lite 🟠 ([F-Droid](https://f-droid.org/en/packages/net.syncthing.lite))
+## Code forges
+- Gitea/Forgejo:
+  1. GitNex ([F-Droid](https://f-droid.org/en/packages/org.mian.gitnex))
+  2. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
+- GitLab:
+  1. Deep Links for LabCoat ([F-Droid](https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks))
+  2. LabCoat ([F-Droid](https://f-droid.org/en/packages/com.commit451.gitlab))
+  3. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
 
 ## Communication
 - IRC:
@@ -122,19 +90,18 @@ This a list of known Android apps that work with services that are self-hostable
   7. Quicksy ([F-Droid](https://f-droid.org/en/packages/im.quicksy.client))
   8. Snikket ([F-Droid](https://f-droid.org/en/packages/org.snikket.android))
 
-## Photos
-- Immich: Immich ([F-Droid](https://f-droid.org/en/packages/app.alextran.immich))
-- Librephotos: Librephotos Mobile ([GitHub](https://github.com/LibrePhotos/librephotos-mobile/releases))
-- Nextcloud Photos:
-  1. Les Pas ([F-Droid](https://f-droid.org/en/packages/site.leos.apps.lespas))
-  2. Nextcloud Yaga ([F-Droid](https://f-droid.org/en/packages/com.github.vauvenal5.yaga))
-  3. Souvenirs ([F-Droid](https://f-droid.org/en/packages/fr.nuage.souvenirs))
-- Photoprism:
-  1. Gallery for PhotoPrism ([F-Droid](https://f-droid.org/en/packages/ua.com.radiokot.photoprism))
-  2. Photoprism 🔴 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.photoprism.photoprism))
-- Piwigo:
-  1. Piwigo 🟠 ([F-Droid](https://f-droid.org/en/packages/org.piwigo.android))
-  2. Piwigo NG ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.piwigo.piwigo_ng))
+## Cooking & recipes
+- Groceries/Clementines: Specifically Clementines ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.shaytech.groceries))
+- Grocy: Grocy ([F-Droid](https://f-droid.org/en/packages/xyz.zedler.patrick.grocy))
+- KitchenOwl: KitchenOwl ([F-Droid](https://f-droid.org/en/packages/com.tombursch.kitchenowl))
+- Mealie:
+  1. Forage ([F-Droid](https://f-droid.org/en/packages/net.ser1.forage))
+  2. Mealient ([F-Droid](https://f-droid.org/en/packages/gq.kirmanak.mealient))
+- Nextcloud Cookbook:
+  1. Nextcloud Cookbook by lneugebauer ([F-Droid](https://f-droid.org/en/packages/de.lukasneugebauer.nextcloudcookbook))
+  2. Nextcloud Cookbook by MicMun ([F-Droid](https://f-droid.org/en/packages/de.micmun.android.nextcloudcookbook))
+  3. Nextcloud Cookbook by Teifun2 ([F-Droid](https://f-droid.org/en/packages/com.nextcloud_cookbook_flutter))
+- Tandoor: Untare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/unofficial.tandoor.recipes))
 
 ## Download/Torrent client remote control
 - AriaNG: Aria2App ([F-Droid](https://f-droid.org/en/packages/com.gianlu.aria2app))
@@ -154,36 +121,6 @@ This a list of known Android apps that work with services that are self-hostable
   3. Transmissionic ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic))
   4. Tremotesf ([F-Droid](https://f-droid.org/en/packages/org.equeim.tremotesf))
 
-## Finance apps
-- Cospend: MoneyBuster ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.moneybuster))
-- Firefly III:
-  1. Firefly III mobile 🟠 ([F-Droid](https://f-droid.org/en/packages/xyz.hisname.fireflyiii))
-  2. Waterfly III ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii))
-- InvoiceNinja: InvoiceNinja ([F-Droid](https://f-droid.org/en/packages/com.invoiceninja.app))
-- MyFin: MyFin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.afaneca.myfin))
-- Receipt Parser Server: Receipt Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.receipt_manager))
-
-## Monitors and management clients
-- Gotify: Gotify ([F-Droid](https://f-droid.org/en/packages/com.github.gotify))
-- Netdata: Netdata app - Server monitoring ([Google Play](https://play.google.com/store/apps/details?id=com.kpots.netdata))
-- ntfy: ntfy ([F-Droid](https://f-droid.org/en/packages/io.heckel.ntfy))
-- OpenWrt: OpenWrt manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hg.openwrtmanager))
-- Portainer:
-  1. AndroTainer 🟠 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dokeraj.androtainer))
-  2. Portarius ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/si.zbe.portarius))
-- Proxmox: Proxmox VE ([Google Play](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend))
-- S3 storage (Min.IO, etc.):
-  1. Asgardius S3 Manager ([F-Droid](https://f-droid.org/en/packages/asgardius.page.s3manager), [Google Play](https://play.google.com/store/apps/details?id=asgardius.page.s3manager))
-  2. Asgradius S3 Music ([F-Droid](https://f-droid.org/en/packages/asgardius.page.s3music), [Google Play](https://play.google.com/store/apps/details?id=asgardius.page.s3music))
-- UptimeRobot: UptimeRobot ([Google Play](https://play.google.com/store/apps/details?id=com.uptimerobot))
-- VPNs:
-  1. OpenVPN for Android ([F-Droid](https://f-droid.org/en/packages/de.blinkt.openvpn))
-  2. Tailscale ([F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn), [Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn))
-  3. WG Tunnel - Wireguard ([F-Droid](https://f-droid.org/en/packages/com.zaneschepke.wireguardautotunnel))
-  4. Wireguard ([Google Play](https://play.google.com/store/apps/details?id=com.wireguard.android), [Self-updateable binary](https://download.wireguard.com/android-client/))
-  5. Zerotier fix - unofficial ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.kaaass.zerotierfix))
-  6. ZeroTier One ([Google Play](https://play.google.com/store/apps/details?id=com.zerotier.one))
-
 ## Ebooks
 - Komga/Kavita: Tachiyomi + plugins ([GitHub](https://github.com/tachiyomiorg/tachiyomi/releases))
 - OPDS ([more apps here](https://wiki.mobileread.com/wiki/OPDS)):
@@ -191,136 +128,7 @@ This a list of known Android apps that work with services that are self-hostable
   2. Librera Pro ([Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader), [GitHub](https://github.com/foobnix/LibreraReader/releases))
   3. KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid))
 
-## RSS feeds
-- FreshRSS:
-  1. EasyRSS 🟠 ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
-  2. Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
-  3. FreshRSS ([F-Droid](https://f-droid.org/en/packages/fr.chenry.android.freshrss))
-  4. Readrops ([F-Droid](https://f-droid.org/en/packages/com.readrops.app))
-  5. Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases), latest release is broken, use [0.9.7](https://github.com/Ashinch/ReadYou/releases/tag/0.9.7))
-- Miniflux:
-  1. EasyRSS 🟠 ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
-  2. Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
-  3. Flux News ([F-Droid](https://f-droid.org/en/packages/de.circle_dev.flux_news))
-  4. Miniflutt ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/be.martinelli.miniflutt))
-  5. News ([F-Droid](https://f-droid.org/en/packages/co.appreactor.news))
-  6. Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases), latest release is broken, use [0.9.7](https://github.com/Ashinch/ReadYou/releases/tag/0.9.7))
-- Nextcloud News:
-  1. OCReader ([F-Droid](https://f-droid.org/en/packages/email.schaal.ocreader))
-  2. Nextcloud News ([F-Droid](https://f-droid.org/en/packages/de.luhmer.owncloudnewsreader))
-  3. News ([F-Droid](https://f-droid.org/en/packages/co.appreactor.news))
-  4. Readrops ([F-Droid](https://f-droid.org/en/packages/com.readrops.app))
-- Tiny Tiny RSS:
-  1. Geekttrss ([F-Droid](https://f-droid.org/en/packages/com.geekorum.ttrss.free))
-  2. Tiny Tiny RSS ([F-Droid](https://f-droid.org/en/packages/org.fox.tttrss))
-  3. TTRSS Reader ([F-Droid](https://f-droid.org/en/packages/org.ttrssreader))
-
-## Cooking & recipes
-- Groceries/Clementines: Specifically Clementines ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.shaytech.groceries))
-- Grocy: Grocy ([F-Droid](https://f-droid.org/en/packages/xyz.zedler.patrick.grocy))
-- KitchenOwl: KitchenOwl ([F-Droid](https://f-droid.org/en/packages/com.tombursch.kitchenowl))
-- Mealie:
-  1. Forage ([F-Droid](https://f-droid.org/en/packages/net.ser1.forage))
-  2. Mealient ([F-Droid](https://f-droid.org/en/packages/gq.kirmanak.mealient))
-- Nextcloud Cookbook:
-  1. Nextcloud Cookbook by lneugebauer ([F-Droid](https://f-droid.org/en/packages/de.lukasneugebauer.nextcloudcookbook))
-  2. Nextcloud Cookbook by MicMun ([F-Droid](https://f-droid.org/en/packages/de.micmun.android.nextcloudcookbook))
-  3. Nextcloud Cookbook by Teifun2 ([F-Droid](https://f-droid.org/en/packages/com.nextcloud_cookbook_flutter))
-- Tandoor: Untare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/unofficial.tandoor.recipes))
-
-## Time tracking
-- Kimai:
-  1. Kimai Mobile ([💵 Google Play](https://play.google.com/store/apps/details?id=de.cloudrizon.kimaimobile))
-  2. Kimai TimeTracker ([F-Droid](https://f-droid.org/en/packages/de.live.gdev.timetracker))
-
-## Home automation
-- Home Assistant: Home Assistant ([F-Droid](https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal))
-- OpenHAB: openHAB ([F-Droid](https://f-droid.org/en/packages/org.openhab.habdroid/))
-
-## Code forges
-- Gitea/Forgejo:
-  1. GitNex ([F-Droid](https://f-droid.org/en/packages/org.mian.gitnex))
-  2. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
-- GitLab:
-  1. Deep Links for LabCoat ([F-Droid](https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks))
-  2. LabCoat ([F-Droid](https://f-droid.org/en/packages/com.commit451.gitlab))
-  3. GitTouch 🟠 ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch))
-
-## GPS and tracking
-- FindMyDeviceServer: Find My Device ([F-Droid](https://f-droid.org/en/packages/de.nulide.findmydevice))
-- Hauk: Hauk ([F-Droid](https://f-droid.org/en/packages/info.varden.hauk))
-- OwnTracks:
-  1. OwnTracks ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.owntracks.android))
-  2. PhoneTrack ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
-- Traccar:
-  1. Traccar Client ([F-Droid](https://f-droid.org/en/packages/org.traccar.client))
-  2. Traccar Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.traccar.manager))
-- μlogger: μlogger ([F-Droid](https://f-droid.org/en/packages/net.fabiszewski.ulogger))
-
-## Youtube proxies
-- Invidious:
-  1. Clipious ([F-Droid](https://f-droid.org/en/packages/com.github.lamarios.clipious))
-  2. FreeTubeCordova ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.freetubeapp.freetube))
-  3. HoloPlay ([F-Droid](https://f-droid.org/en/packages/com.holoplay))
-- LightTube: LightTube ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.kuylar.lighttube))
-- Piped
-  1. Harmony Music ([F-Droid](https://f-droid.org/en/packages/com.anandnet.harmonymusic/) - *music only*)
-  1. LibreTube ([F-Droid](https://f-droid.org/en/packages/com.github.libretube), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube))
-  2. Vibe You ([F-Droid](https://f-droid.org/en/packages/app.suhasdissa.vibeyou) - *music only*)
-
-## Note taking
-- Joplin:
-  1. Joplin ([F-Droid](https://f-droid.org/en/packages/net.cozic.joplin), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin))
-  2. Ruslin 🟠 ([F-Droid](https://f-droid.org/en/packages/org.dianqk.ruslin))
-- Leanote: Leanote 🟠 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.leanote.android))
-- Memos: MoeMemos ([F-Droid](https://f-droid.org/en/packages/me.mudkip.moememos))
-- Nextcloud Notes:
-  1. Nextcloud Notes ([F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes))
-  2. Quillpad ([F-Droid](https://f-droid.org/en/packages/io.github.quillpad))
-- Obsidian: Obsidian ([Google Play](https://play.google.com/store/apps/details?id=md.obsidian))
-- Standard Notes: Standard Notes ([F-Droid](https://f-droid.org/en/packages/com.standardnotes))
----
-Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwriters.notesnook))
-
-## Miscellaneous
-- Dolibarr: DoliDroid - ERP/CRM client ([F-Droid](https://f-droid.org/en/packages/com.nltechno.dolidroidpro))
-- FileBin: FileBin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile))
-- Kanboard: Khanos ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.gojaponte.khanos))
-- Linx: LinxShare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.thegraveyard.linxshare))
-- Mail forwarding
-  1. addy.io ([F-Droid](https://f-droid.org/en/packages/host.stjin.anonaddy))
-  2. SimpleLogin ([F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid))
-- Moodle: dawdle ([F-Droid](https://f-droid.org/en/packages/godau.fynn.moodledirect))
-- Moonlight: Moonlight Game Streaming ([F-Droid](https://f-droid.org/en/packages/com.limelight))
-- Uncategorized Nextcloud apps
-  1. Nextcloud Deck ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.deck))
-  2. NextPush ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
-  3. Nextcloud Tables ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.tables))
-- Presents: Presents - wishlist app ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lezsoft.presents))
-- RustDesk: RustDesk ([F-Droid](https://f-droid.org/en/packages/com.carriez.flutter_hbb))
-- Shlink: Shlink Manager ([Google Play](https://play.google.com/store/apps/details?id=dev.abmgrt.shlink_app), [GitHub](https://github.com/rainloreley/shlink-manager/releases))
-- SnapDrop/PairDrop:
-  1. PairDrop SnapDrop ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.snapdrop))
-  2. SnapDrop & PairDrop for Android ([F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop))
-
-## Local wiki
-- DokuWiki: Dokuwiki Android ([F-Droid](https://f-droid.org/en/packages/com.fabienli.dokuwiki))
-- MoasdaWiki: MoasdaWiki App ([F-Droid](https://f-droid.org/en/packages/net.moasdawiki.app/))
-- TiddlyWiki: Tiddloid ([F-Droid](https://f-droid.org/en/packages/top.donmor.tiddloid))
-
-## Password managers
-- Bitwarden & Vaultwarden: Bitwarden ([Bitwarden F-Droid repository](https://mobileapp.bitwarden.com/fdroid/), [GitHub](https://github.com/bitwarden/mobile/releases), [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden))
-- KeePass:
-  1. KeePassDX ([F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free))
-  2. KPassNotes ([F-Droid](https://f-droid.org/en/packages/com.ivanovsky.passnotes))
-  3. OneKeePass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.onekeepassmobile))
-  4. Vault ([F-Droid](https://f-droid.org/en/packages/com.arsvechkarev.vault))
-- Nextcloud Passwords:
-  1. NC Passwords ([F-Droid](https://f-droid.org/en/packages/de.jbservices.nc_passwords_app))
-  2. Nextcloud Passwords ([F-Droid](https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords))
-  3. NextPass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.seldon1000.nextpass))
-
-## Fediverse
+## Fediverse clients
 - diaspora*:
   1. dandelior* 🟠 ([F-Droid](https://f-droid.org/en/packages/net.gsantner.dandelior/))
   2. Insporation* ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jhass.eu.insporation))
@@ -371,3 +179,220 @@ Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwrit
   2. Pixelcat 🟠 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.connyduck.pixelcat))
   3. PixelDroid ([F-Droid](https://f-droid.org/en/packages/org.pixeldroid.app/))
   4. Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Google Play](https://play.google.com/store/apps/details?id=net.accelf.yuito))
+
+## File sync
+- Docspell: Docspell share 🟠 ([F-Droid](https://f-droid.org/en/packages/org.docspell.docspellshare))
+- Paperless:
+  1. Paperless 🟠 ([F-Droid](https://f-droid.org/en/packages/eu.bauerj.paperless_app), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app))
+  2. Paperless Mobile ([F-Droid](https://f-droid.org/en/packages/de.astubenbord.paperless_mobile), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app))
+  3. Paperless Share (upload only) 🟠 ([F-Droid](https://f-droid.org/en/packages/com.quinncasey.paperless_share), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.quinncasey.paperless_share))
+- Syncthing:
+  1. Syncthing ([F-Droid](https://f-droid.org/en/packages/com.nutomic.syncthingandroid))
+  2. Syncthing-Fork ([F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid))
+  3. Syncthing-Lite 🟠 ([F-Droid](https://f-droid.org/en/packages/net.syncthing.lite))
+
+## Finance apps
+- Cospend: MoneyBuster ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.moneybuster))
+- Firefly III:
+  1. Firefly III mobile 🟠 ([F-Droid](https://f-droid.org/en/packages/xyz.hisname.fireflyiii))
+  2. Waterfly III ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii))
+- InvoiceNinja: InvoiceNinja ([F-Droid](https://f-droid.org/en/packages/com.invoiceninja.app))
+- MyFin: MyFin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.afaneca.myfin))
+- Receipt Parser Server: Receipt Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.receipt_manager))
+
+## GPS and tracking
+- FindMyDeviceServer: Find My Device ([F-Droid](https://f-droid.org/en/packages/de.nulide.findmydevice))
+- Hauk: Hauk ([F-Droid](https://f-droid.org/en/packages/info.varden.hauk))
+- OwnTracks:
+  1. OwnTracks ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.owntracks.android))
+  2. PhoneTrack ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
+- Traccar:
+  1. Traccar Client ([F-Droid](https://f-droid.org/en/packages/org.traccar.client))
+  2. Traccar Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.traccar.manager))
+- μlogger: μlogger ([F-Droid](https://f-droid.org/en/packages/net.fabiszewski.ulogger))
+
+## Home automation
+- Home Assistant: Home Assistant ([F-Droid](https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal))
+- OpenHAB: openHAB ([F-Droid](https://f-droid.org/en/packages/org.openhab.habdroid/))
+
+## Media streaming
+- Audioserve: audioserve ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.zderadicka.audioserve))
+- Audiobookshelf: Audiobookshelf ([Play Store](https://play.google.com/store/apps/details?id=com.audiobookshelf.app), [GitHub](https://github.com/advplyr/audiobookshelf-app/releases/))
+- Ampache:
+  1. Amdroid 🟠 ([F-Droid](https://f-droid.org/en/packages/com.sound.ampache))
+  2. Power Ampache 🟠 ([F-Droid](https://f-droid.org/en/packages/com.antoniotari.reactiveampacheapp))
+  - *also works with subsonic clients*
+- Funkwhale:
+  1. Funkwhale for Android ([F-Droid](https://f-droid.org/en/packages/audio.funkwhale.ffa))
+  2. Otter 🟠 ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.github.apognu.otter))
+  - *also works with subsonic clients*
+- Jellyfin:
+  1. boum ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.eindm.boum) - *music only*)
+  2. Findroid ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin) - *videos only*)
+  3. Finamp ([F-Droid](https://f-droid.org/en/packages/com.unicornsonlsd.finamp) - *music only*)
+  4. Fintunes ([F-Droid](https://f-droid.org/en/packages/nl.moeilijkedingen.jellyfinaudioplayer) - *music only*)
+  5. Gelli ([F-Droid](https://f-droid.org/en/packages/com.dkanada.gramophone) - *music only*)
+  6. Jellyfin ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.mobile))
+  7. JellyBook ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.KaraWilson.JellyBook) - *ebooks only*)
+  8. Jellyfin for Android TV ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv))
+  8. Symfonium ([Google Play](https://play.google.com/store/apps/details?id=app.symfonik.music.player) - *music only*)
+- Subsonic:
+  1. Audinaut 🟠 ([F-Droid](https://f-droid.org/en/packages/net.nullsum.audinaut))
+  2. DSub 🟠 ([F-Droid](https://f-droid.org/en/packages/github.daneren2005.dsub), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/github.daneren2005.dsub), [Google Play](https://play.google.com/store/apps/details?id=github.daneren2005.dsub))
+  3. SonicLair ([Google Play](https://play.google.com/store/apps/details?id=tech.logica10.soniclair), [GitHub](https://github.com/thelinkin3000/SonicLair))
+  4. SubTracks ([F-Droid](https://f-droid.org/en/packages/com.subtracks), [GitHub](https://github.com/austinried/subtracks/releases), [Google Play](https://play.google.com/store/apps/details?id=com.subtracks))
+  5. SubTune ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/cc.taylorzhang.subtune))
+  6. substreamer ([Google Play](https://play.google.com/store/apps/details?id=com.ghenry22.substream2))
+  7. Symfonium ([Google Play](https://play.google.com/store/apps/details?id=app.symfonik.music.player))
+  8. Tempo ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.cappielloantonio.tempo))
+  9. Ultrasonic ([F-Droid](https://f-droid.org/en/packages/org.moire.ultrasonic), [Google Play](https://play.google.com/store/apps/details?id=org.moire.ultrasonic))
+
+## Miscellaneous
+- Dolibarr: DoliDroid - ERP/CRM client ([F-Droid](https://f-droid.org/en/packages/com.nltechno.dolidroidpro))
+- FileBin: FileBin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile))
+- Kanboard: Khanos ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.gojaponte.khanos))
+- Linx: LinxShare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.thegraveyard.linxshare))
+- Mail forwarding
+  1. addy.io ([F-Droid](https://f-droid.org/en/packages/host.stjin.anonaddy))
+  2. SimpleLogin ([F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid))
+- Moodle: dawdle ([F-Droid](https://f-droid.org/en/packages/godau.fynn.moodledirect))
+- Moonlight: Moonlight Game Streaming ([F-Droid](https://f-droid.org/en/packages/com.limelight))
+- Uncategorized Nextcloud apps
+  1. Nextcloud Deck ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.deck))
+  2. NextPush ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
+  3. Nextcloud Tables ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.tables))
+- Presents: Presents - wishlist app ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lezsoft.presents))
+- RustDesk: RustDesk ([F-Droid](https://f-droid.org/en/packages/com.carriez.flutter_hbb))
+- Shlink: Shlink Manager ([Google Play](https://play.google.com/store/apps/details?id=dev.abmgrt.shlink_app), [GitHub](https://github.com/rainloreley/shlink-manager/releases))
+- SnapDrop/PairDrop:
+  1. PairDrop SnapDrop ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.snapdrop))
+  2. SnapDrop & PairDrop for Android ([F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop))
+
+## Monitors and management clients
+- Gotify: Gotify ([F-Droid](https://f-droid.org/en/packages/com.github.gotify))
+- Netdata: Netdata app - Server monitoring ([Google Play](https://play.google.com/store/apps/details?id=com.kpots.netdata))
+- ntfy: ntfy ([F-Droid](https://f-droid.org/en/packages/io.heckel.ntfy))
+- OpenWrt: OpenWrt manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hg.openwrtmanager))
+- Portainer:
+  1. AndroTainer 🟠 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dokeraj.androtainer))
+  2. Portarius ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/si.zbe.portarius))
+- Proxmox: Proxmox VE ([Google Play](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend))
+- S3 storage (Min.IO, etc.):
+  1. Asgardius S3 Manager ([F-Droid](https://f-droid.org/en/packages/asgardius.page.s3manager), [Google Play](https://play.google.com/store/apps/details?id=asgardius.page.s3manager))
+  2. Asgradius S3 Music ([F-Droid](https://f-droid.org/en/packages/asgardius.page.s3music), [Google Play](https://play.google.com/store/apps/details?id=asgardius.page.s3music))
+- UptimeRobot: UptimeRobot ([Google Play](https://play.google.com/store/apps/details?id=com.uptimerobot))
+- VPNs:
+  1. OpenVPN for Android ([F-Droid](https://f-droid.org/en/packages/de.blinkt.openvpn))
+  2. Tailscale ([F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn), [Google Play](https://play.google.com/store/apps/details?id=com.tailscale.ipn))
+  3. WG Tunnel - Wireguard ([F-Droid](https://f-droid.org/en/packages/com.zaneschepke.wireguardautotunnel))
+  4. Wireguard ([Google Play](https://play.google.com/store/apps/details?id=com.wireguard.android), [Self-updateable binary](https://download.wireguard.com/android-client/))
+  5. Zerotier fix - unofficial ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.kaaass.zerotierfix))
+  6. ZeroTier One ([Google Play](https://play.google.com/store/apps/details?id=com.zerotier.one))
+
+## Note-taking
+- Joplin:
+  1. Joplin ([F-Droid](https://f-droid.org/en/packages/net.cozic.joplin), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin))
+  2. Ruslin 🟠 ([F-Droid](https://f-droid.org/en/packages/org.dianqk.ruslin))
+- Leanote: Leanote 🟠 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.leanote.android))
+- Memos: MoeMemos ([F-Droid](https://f-droid.org/en/packages/me.mudkip.moememos))
+- Nextcloud Notes:
+  1. Nextcloud Notes ([F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes))
+  2. Quillpad ([F-Droid](https://f-droid.org/en/packages/io.github.quillpad))
+- Obsidian: Obsidian ([Google Play](https://play.google.com/store/apps/details?id=md.obsidian))
+- Standard Notes: Standard Notes ([F-Droid](https://f-droid.org/en/packages/com.standardnotes))
+---
+Planned: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwriters.notesnook))
+
+## Password managers
+- Bitwarden & Vaultwarden: Bitwarden ([Bitwarden F-Droid repository](https://mobileapp.bitwarden.com/fdroid/), [GitHub](https://github.com/bitwarden/mobile/releases), [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden))
+- KeePass:
+  1. KeePassDX ([F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kunzisoft.keepass.free))
+  2. KPassNotes ([F-Droid](https://f-droid.org/en/packages/com.ivanovsky.passnotes))
+  3. OneKeePass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.onekeepassmobile))
+  4. Vault ([F-Droid](https://f-droid.org/en/packages/com.arsvechkarev.vault))
+- Nextcloud Passwords:
+  1. NC Passwords ([F-Droid](https://f-droid.org/en/packages/de.jbservices.nc_passwords_app))
+  2. Nextcloud Passwords ([F-Droid](https://f-droid.org/en/packages/com.hegocre.nextcloudpasswords))
+  3. NextPass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.seldon1000.nextpass))
+
+## Photos
+- Immich: Immich ([F-Droid](https://f-droid.org/en/packages/app.alextran.immich))
+- Librephotos: Librephotos Mobile ([GitHub](https://github.com/LibrePhotos/librephotos-mobile/releases))
+- Nextcloud Photos:
+  1. Les Pas ([F-Droid](https://f-droid.org/en/packages/site.leos.apps.lespas))
+  2. Nextcloud Yaga ([F-Droid](https://f-droid.org/en/packages/com.github.vauvenal5.yaga))
+  3. Souvenirs ([F-Droid](https://f-droid.org/en/packages/fr.nuage.souvenirs))
+- Photoprism:
+  1. Gallery for PhotoPrism ([F-Droid](https://f-droid.org/en/packages/ua.com.radiokot.photoprism))
+  2. Photoprism 🔴 ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.photoprism.photoprism))
+- Piwigo:
+  1. Piwigo 🟠 ([F-Droid](https://f-droid.org/en/packages/org.piwigo.android))
+  2. Piwigo NG ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.piwigo.piwigo_ng))
+
+## RSS clients
+- FreshRSS:
+  1. EasyRSS 🟠 ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
+  2. Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
+  3. FreshRSS ([F-Droid](https://f-droid.org/en/packages/fr.chenry.android.freshrss))
+  4. Readrops ([F-Droid](https://f-droid.org/en/packages/com.readrops.app))
+  5. Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases) - latest is broken, use [0.9.7](https://github.com/Ashinch/ReadYou/releases/tag/0.9.7) for now)
+- Miniflux:
+  1. EasyRSS 🟠 ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
+  2. Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
+  3. Flux News ([F-Droid](https://f-droid.org/en/packages/de.circle_dev.flux_news))
+  4. Miniflutt ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/be.martinelli.miniflutt))
+  5. News ([F-Droid](https://f-droid.org/en/packages/co.appreactor.news))
+  6. Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases) - latest is broken, use [0.9.7](https://github.com/Ashinch/ReadYou/releases/tag/0.9.7) for now)
+- Nextcloud News:
+  1. OCReader ([F-Droid](https://f-droid.org/en/packages/email.schaal.ocreader))
+  2. Nextcloud News ([F-Droid](https://f-droid.org/en/packages/de.luhmer.owncloudnewsreader))
+  3. News ([F-Droid](https://f-droid.org/en/packages/co.appreactor.news))
+  4. Readrops ([F-Droid](https://f-droid.org/en/packages/com.readrops.app))
+- Tiny Tiny RSS:
+  1. Geekttrss ([F-Droid](https://f-droid.org/en/packages/com.geekorum.ttrss.free))
+  2. Tiny Tiny RSS ([F-Droid](https://f-droid.org/en/packages/org.fox.tttrss))
+  3. TTRSS Reader ([F-Droid](https://f-droid.org/en/packages/org.ttrssreader))
+
+## Time tracking
+- Kimai:
+  1. Kimai Mobile ([💵 Google Play](https://play.google.com/store/apps/details?id=de.cloudrizon.kimaimobile))
+  2. Kimai TimeTracker ([F-Droid](https://f-droid.org/en/packages/de.live.gdev.timetracker))
+
+## WebDAV
+- CalDAV & CardDAV sync: DAVx5 ([F-Droid](https://f-droid.org/en/packages/at.bitfire.davdroid), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.bitfire.davdroid))
+- Notes:
+  1. Carnet ([F-Droid](https://f-droid.org/en/packages/com.spisoft.quicknote))
+  2. Joplin ([F-Droid](https://f-droid.org/en/packages/net.cozic.joplin), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin))
+  3. jtx Board ([F-Droid](https://f-droid.org/en/packages/at.techbee.jtx))
+  4. Linwood Buttefly ([F-Droid](https://f-droid.org/en/packages/dev.linwood.butterfly))
+  5. Orgzly Revived ([F-Droid](https://f-droid.org/en/packages/com.orgzlyrevived))
+  6. Saber ([F-Droid](https://f-droid.org/en/packages/com.adilhanney.saber))
+  7. WD Notes ([F-Droid](https://f-droid.org/en/packages/es.ideotec.wdnotes))
+- Tasks:
+  1. Doable ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.flobii.doable))
+  2. jtx Board ([F-Droid](https://f-droid.org/en/packages/at.techbee.jtx))
+  3. OpenTasks 🟠 ([F-Droid](https://f-droid.org/en/packages/org.dmfs.tasks))
+  4. OpenTodoList ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.rpdev.opentodolist))
+  4. Tasks.org ([F-Droid](https://f-droid.org/en/packages/org.tasks))
+  5. Simpletask - WebDAV ([F-Droid](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask.webdav))
+- Other:
+  1. Cryptomator 🗝️ ([Cryptomator F-Droid repository](https://static.cryptomator.org/android/fdroid/repo?fingerprint=F7C3EC3B0D588D3CB52983E9EB1A7421C93D4339A286398E71D7B651E8D8ECDD), [F-Droid](https://f-droid.org/en/packages/org.cryptomator.lite), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.cryptomator), [GitHub](https://github.com/cryptomator/android/releases), [💵 Google Play](https://play.google.com/store/apps/details?id=org.cryptomator))
+  2. floccus bookmark sync ([F-Droid](https://f-droid.org/en/packages/org.handmadeideas.floccus/), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.handmadeideas.floccus))
+  3. Round Sync - Rclone for Android ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.felixnuesse.extract))
+  4. My Expenses ([F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses))
+
+## Wikis
+- DokuWiki: Dokuwiki Android ([F-Droid](https://f-droid.org/en/packages/com.fabienli.dokuwiki))
+- MoasdaWiki: MoasdaWiki App ([F-Droid](https://f-droid.org/en/packages/net.moasdawiki.app/))
+- TiddlyWiki: Tiddloid ([F-Droid](https://f-droid.org/en/packages/top.donmor.tiddloid))
+
+## YouTube proxies
+- Invidious:
+  1. Clipious ([F-Droid](https://f-droid.org/en/packages/com.github.lamarios.clipious))
+  2. FreeTubeCordova ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.freetubeapp.freetube))
+  3. HoloPlay ([F-Droid](https://f-droid.org/en/packages/com.holoplay))
+- LightTube: LightTube ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.kuylar.lighttube))
+- Piped
+  1. Harmony Music ([F-Droid](https://f-droid.org/en/packages/com.anandnet.harmonymusic/) - *music only*)
+  1. LibreTube ([F-Droid](https://f-droid.org/en/packages/com.github.libretube), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube))
+  2. Vibe You ([F-Droid](https://f-droid.org/en/packages/app.suhasdissa.vibeyou) - *music only*)
