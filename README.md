@@ -22,7 +22,7 @@ This a list of known Android apps that work with services that are self-hostable
   2. wallabag ([F-Droid](https://f-droid.org/en/packages/fr.gaulupeau.apps.InThePoche))
 
 ## Media streaming
-- Audioserve: audioserve [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.zderadicka.audioserve)
+- Audioserve: audioserve ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.zderadicka.audioserve))
 - Audiobookshelf: Audiobookshelf ([Play Store](https://play.google.com/store/apps/details?id=com.audiobookshelf.app), [GitHub](https://github.com/advplyr/audiobookshelf-app/releases/))
 - Ampache:
   1. Amdroid 🟠 ([F-Droid](https://f-droid.org/en/packages/com.sound.ampache))
@@ -326,7 +326,7 @@ Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwrit
   2. Insporation* ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jhass.eu.insporation))
 - Mastodon:
   1. AndStatus ([F-Droid](https://f-droid.org/en/packages/org.andstatus.app))
-  2. Fedilab ([Fedilab F-Droid repository](), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [💵 Google Play](https://play.google.com/store/apps/details?id=app.fedilab.android))
+  2. Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [💵 Google Play](https://play.google.com/store/apps/details?id=app.fedilab.android))
   3. Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky))
   4. IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous))
   5. Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki))
@@ -345,7 +345,7 @@ Coming soon: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwrit
   18. Twidere X ([F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex), [GitHub](https://github.com/TwidereProject/TwidereX-Android/releases))
   19. Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Google Play](https://play.google.com/store/apps/details?id=net.accelf.yuito))
 - Pleroma/Akkoma:
-  1. Fedilab ([Fedilab F-Droid repository](), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Google Play](https://play.google.com/store/apps/details?id=app.fedilab.android))
+  1. Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Google Play](https://play.google.com/store/apps/details?id=app.fedilab.android))
   2. Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky))
   3. IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous))
   4. Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki))
