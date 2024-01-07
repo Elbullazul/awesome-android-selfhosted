@@ -352,6 +352,11 @@ Planned: Notesnook ([F-Droid](https://f-droid.org/en/packages/com.streetwriters.
   1. Geekttrss ([F-Droid](https://f-droid.org/en/packages/com.geekorum.ttrss.free))
   2. Tiny Tiny RSS ([F-Droid](https://f-droid.org/en/packages/org.fox.tttrss))
   3. TTRSS Reader ([F-Droid](https://f-droid.org/en/packages/org.ttrssreader))
+- Yarr (via Fever API):
+  1. EasyRSS ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
+  2. Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Google Play](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
+  3. Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases) - latest is broken, use [0.9.7](https://github.com/Ashinch/ReadYou/releases/tag/0.9.7) for now)
+  
 
 ## Time tracking
 - Kimai:
