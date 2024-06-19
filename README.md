@@ -2,6 +2,8 @@
 
 This a list of known Android apps that work with self-hostable services.
 
+If the developer publishes APK builds, a link to the releases tab of their repository is provided, with the name of the hosting provider (ex. Codeberg, GitLab, GitHub). If no builds are published, a link to the source code is provided instead.
+
 ## Iconography
 
 > - ⭐️: official app
@@ -37,104 +39,107 @@ This a list of known Android apps that work with self-hostable services.
 - [YouTube proxies](#youtube-proxies)
 
 ## Bookmarks
-- Briefkasten: HTTP Shortcuts ([F-Droid](https://f-droid.org/en/packages/ch.rmy.android.http_shortcuts/) - [setup instructions](https://github.com/ndom91/briefkasten/tree/main#-related))
-- Hoarder: ⭐️ Hoarder Android ([Play Store]()https://play.google.com/store/apps/details?id=app.hoarder.hoardermobile)
+- Briefkasten: HTTP Shortcuts ([F-Droid](https://f-droid.org/en/packages/ch.rmy.android.http_shortcuts/), [GitHub](https://github.com/Waboodoo/HTTP-Shortcuts/releases)) - setup instructions [here](https://github.com/ndom91/briefkasten/tree/main#-related)
+- Hoarder: ⭐️ Hoarder Android ([Play Store](https://play.google.com/store/apps/details?id=app.hoarder.hoardermobile), [Source](https://github.com/hoarder-app/hoarder))
 - Linkding:
-  - Lnkdy ([GitHub](https://github.com/JGeek00/linkdy/releases))
-  - LinkLater ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.yrovas.linklater))
+  - Linkdy ([GitHub](https://github.com/JGeek00/linkdy/releases))
+  - LinkLater ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.yrovas.linklater), [GitHub](https://github.com/danielyrovas/linklater/releases))
 - Nextcloud:
   - Bookmarks for Nextcloud ([Play Store](https://play.google.com/store/apps/details?id=de.emasty.bookmarks))
-  - floccus bookmark sync ([F-Droid](https://f-droid.org/en/packages/org.handmadeideas.floccus/), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.handmadeideas.floccus))
-  - Nextcloud Bookmarks ([F-Droid](https://f-droid.org/en/packages/org.schabi.nxbookmarks))
-  - Save to Nextcloud Bookmarks ([F-Droid](https://f-droid.org/en/packages/com.tttdevs.stncbookmarks))
-- Shaarli: Shaarlier ([F-Droid](https://f-droid.org/en/packages/com.dimtion.shaarlier))
+  - floccus bookmark sync ([F-Droid](https://f-droid.org/en/packages/org.handmadeideas.floccus/), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.handmadeideas.floccus), [GitHub](https://github.com/floccusaddon/floccus/releases))
+  - Nextcloud Bookmarks ([F-Droid](https://f-droid.org/en/packages/org.schabi.nxbookmarks), [Amazon Appstore](https://www.amazon.com/dp/B08L5RKHMM/ref=apps_sf_sta), [Source](https://gitlab.com/bisada/OCBookmarks))
+  - Save to Nextcloud Bookmarks ⚠️ ([F-Droid](https://f-droid.org/en/packages/com.tttdevs.stncbookmarks), [Source](https://github.com/mdev88/NextCloudBookmarksAndroid))
+- Shaarli: Shaarlier ([F-Droid](https://f-droid.org/en/packages/com.dimtion.shaarlier), [GitHub](https://github.com/dimtion/Shaarlier/releases))
 - Wallabag:
-  - KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid))
-  - Frigoligo ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.casimirlab.frigoligo))
-  - ⭐️ wallabag ([F-Droid](https://f-droid.org/en/packages/fr.gaulupeau.apps.InThePoche))
+  - KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid), [GitHub](https://github.com/koreader/koreader/releases))
+  - Frigoligo ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.casimirlab.frigoligo), [GitHub](https://github.com/casimir/frigoligo/releases))
+  - ⭐️ wallabag ([F-Droid](https://f-droid.org/en/packages/fr.gaulupeau.apps.InThePoche), [GitHub](https://github.com/wallabag/android-app/releases))
 
 ## Cloud sync
 - Nextcloud
-  - ⭐️ Nextcloud ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.client))
-  - ⭐️ Nextcloud Dev ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.android.beta))
-- ownCloud: ⭐️ ownCloud ([F-Droid](https://f-droid.org/en/packages/com.owncloud.android))
-- Seafile: ⭐️ Seafile ([F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2))
+  - ⭐️ Nextcloud ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.client), [GitHub](https://github.com/nextcloud/android/releases))
+  - ⭐️ Nextcloud Dev ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.android.beta), [GitHub](https://github.com/nextcloud/android/releases))
+- ownCloud: ⭐️ ownCloud ([F-Droid](https://f-droid.org/en/packages/com.owncloud.android), [GitHub](https://github.com/owncloud/android/releases))
+- Seafile: ⭐️ Seafile ([F-Droid](https://f-droid.org/en/packages/com.seafile.seadroid2), [GitHub](https://github.com/haiwen/seadroid/releases))
 
 ## Code forges
 - Gitea/Forgejo:
-  - GitNex ([F-Droid](https://f-droid.org/en/packages/org.mian.gitnex))
-  - GitTouch ⚠️ ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d-gittouch))
+  - GitNex ([F-Droid](https://f-droid.org/en/packages/org.mian.gitnex), [Codeberg](https://codeberg.org/gitnex/GitNex/releases))
+  - GitTouch ⚠️ ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch), [GitHub](https://github.com/pd4d10/git-touch/releases))
 - GitLab:
-  - Deep Links for LabCoat ([F-Droid](https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks))
-  - LabCoat ([F-Droid](https://f-droid.org/en/packages/com.commit45-gitlab))
-  - Lab+ ([F-Droid](https://f-droid.org/en/packages/dev.labplus.app/))
-  - GitTouch ⚠️ ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d-gittouch))
+  - Deep Links for LabCoat ⚠️ ([F-Droid](https://f-droid.org/en/packages/com.nomadlabs.labcoat.deeplinks), [Source](https://gitlab.com/nomadlabs/deeplinks))
+  - GitTouch ⚠️ ([F-Droid](https://f-droid.org/en/packages/io.github.pd4d10.gittouch), [GitHub](https://github.com/pd4d10/git-touch/releases))
+  - LabCoat ([F-Droid](https://f-droid.org/en/packages/com.commit451.gitlab), [Play Store](https://play.google.com/store/apps/details?id=com.commit451.gitlab), [Source](https://gitlab.com/Commit451/LabCoat))
+  - Lab+ ([F-Droid](https://f-droid.org/en/packages/dev.labplus.app/), [GitHub](https://github.com/thelooter/labplus_for_gitlab/releases))
 
 ## Communication
 - IRC:
-  - Goguma ([F-Droid](https://f-droid.org/en/packages/fr.emersion.goguma))
-  - Tinelex ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.tinelix.irc.android))
-- Jitsi: ⭐️ Jitsi Meet ([F-Droid](https://f-droid.org/en/packages/org.jitsi.meet))
-- Jami: ⭐️ Jami ([F-Droid](https://f-droid.org/en/packages/cx.ring))
+  - Goguma ([F-Droid](https://f-droid.org/en/packages/fr.emersion.goguma), [Source](https://git.sr.ht/~emersion/goguma))
+- Jitsi: ⭐️ Jitsi Meet ([F-Droid](https://f-droid.org/en/packages/org.jitsi.meet), [Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet), [Source](https://github.com/jitsi/jitsi-meet))
+- Jami: ⭐️ Jami ([F-Droid](https://f-droid.org/en/packages/cx.ring), [Source](https://git.jami.net/savoirfairelinux/jami-client-android))
 - Matrix
-  - ⭐️ Element ([F-Droid](https://f-droid.org/en/packages/im.vector.app))
-  - FluffyChat ([F-Droid](https://f-droid.org/en/packages/chat.fluffy.fluffychat))
-  - NeoChat ([KDE Nightly F-Droid repository](https://cdn.kde.org/android/fdroid/repo/?fingerprint=B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F), [GitHub](https://github.com/KDE/neochat) - no binaries)
-  - SchildiChat ([F-Droid](https://f-droid.org/en/packages/de.spiritcroc.riotx))
-  - SmallTalk ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.dapk.st))
-  - Syphon ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.tether.tether))
-- Mattermost: ⭐️ Mattermost Beta ([F-Droid](https://f-droid.org/en/packages/com.mattermost.rnbeta))
-- Mumble: Mumla ([F-Droid](https://f-droid.org/en/packages/se.lublin.mumla))
-- Nextcloud Talk: ⭐️ Nextcloud Talk ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.talk2))
-- Rocket.Chat: ⭐️ Rocket.Chat ([F-Droid](https://f-droid.org/en/packages/chat.rocket.android))
+  - ⭐️ Element ([F-Droid](https://f-droid.org/en/packages/im.vector.app), [Play Store](https://play.google.com/store/apps/details?id=im.vector.app), [GitHub](https://github.com/element-hq/element-android/releases))
+  - ⭐️ Element X ([Play Store](https://play.google.com/store/apps/details?id=io.element.android.x), [GitHub](https://github.com/element-hq/element-x-android/releases))
+  - FluffyChat ([F-Droid](https://f-droid.org/en/packages/chat.fluffy.fluffychat), [GitHub](https://github.com/krille-chan/fluffychat/releases))
+  - NeoChat ([KDE Nightly F-Droid repository](https://cdn.kde.org/android/fdroid/repo/?fingerprint=B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F), [Source](https://invent.kde.org/network/neochat))
+  - Quadrix ([Play Store](https://play.google.com/store/apps/details?id=chat.quadrix.android), [Source](https://github.com/alariej/quadrix))
+  - SchildiChat ([F-Droid](https://f-droid.org/en/packages/de.spiritcroc.riotx), [Play Store](https://play.google.com/store/apps/details?id=de.spiritcroc.riotx), [Source](https://github.com/SchildiChat))
+  - SmallTalk ⏸️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/app.dapk.st), [GitHub](https://github.com/ouchadam/small-talk/releases))
+  - Syphon ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.tether.tether), [GitHub](https://github.com/syphon-org/syphon/releases))
+- Mattermost: ⭐️ Mattermost Beta ([F-Droid](https://f-droid.org/en/packages/com.mattermost.rnbeta), [GitHub](https://github.com/mattermost/mattermost-mobile/releases))
+- Mumble: Mumla ([F-Droid](https://f-droid.org/en/packages/se.lublin.mumla), [Source](https://gitlab.com/quite/mumla))
+- Nextcloud Talk: ⭐️ Nextcloud Talk ([F-Droid](https://f-droid.org/en/packages/com.nextcloud.talk2), [GitHub](https://github.com/nextcloud/talk-android/releases))
+- Rocket.Chat: ⭐️ Rocket.Chat ([Play Store](https://play.google.com/store/apps/details?id=chat.rocket.android), [GitHub](https://github.com/RocketChat/Rocket.Chat.ReactNative/releases)) - [removed from F-Droid](https://gitlab.com/fdroid/fdroiddata/-/issues/3183)
 - XMPP:
-  - aTalk ([F-Droid](https://f-droid.org/en/packages/org.atalk.android))
-  - blabber.im ([F-Droid](https://f-droid.org/en/packages/de.pixart.messenger/))
-  - Cheogram ([F-Droid](https://f-droid.org/en/packages/com.cheogram.android))
-  - Conversations ([F-Droid](https://f-droid.org/en/packages/eu.siacs.conversations))
-  - monocles chat ([F-Droid](https://f-droid.org/en/packages/de.monocles.chat))
-  - Moxxy ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.moxxy.moxxyv2))
-  - Quicksy ([F-Droid](https://f-droid.org/en/packages/im.quicksy.client))
-  - Snikket ([F-Droid](https://f-droid.org/en/packages/org.snikket.android))
+  - aTalk ([F-Droid](https://f-droid.org/en/packages/org.atalk.android), [Play Store](https://play.google.com/store/apps/details?id=org.atalk.android&hl=en), [Source](https://github.com/cmeng-git/atalk-android))
+  - blabber.im ([F-Droid](https://f-droid.org/en/packages/de.pixart.messenger/), [Codeberg](https://codeberg.org/kriztan/blabber.im/releases))
+  - Cheogram ([F-Droid](https://f-droid.org/en/packages/com.cheogram.android), [Source](https://git.singpolyma.net/cheogram-android))
+  - Conversations ([F-Droid](https://f-droid.org/en/packages/eu.siacs.conversations), [Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations), [Amazon AppStore](https://www.amazon.com/dp/B00WD35AAC/), [Source](https://codeberg.org/iNPUTmice/Conversations))
+  - monocles chat ([F-Droid](https://f-droid.org/en/packages/de.monocles.chat), [Codeberg](https://codeberg.org/monocles/monocles_chat/releases))
+  - Moxxy ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.moxxy.moxxyv2), [Codeberg](https://codeberg.org/moxxy/moxxy/releases))
+  - Quicksy ([F-Droid](https://f-droid.org/en/packages/im.quicksy.client), [Source](https://codeberg.org/iNPUTmice/Conversations))
+  - Snikket ([F-Droid](https://f-droid.org/en/packages/org.snikket.android), [Source](https://github.com/snikket-im/snikket-android))
 
 ## Cooking & recipes
-- Groceries/Clementines: Specifically Clementines ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.shaytech.groceries))
-- Grocy: ⭐️ Grocy ([F-Droid](https://f-droid.org/en/packages/xyz.zedler.patrick.grocy))
-- KitchenOwl: ⭐️ KitchenOwl ([F-Droid](https://f-droid.org/en/packages/com.tombursch.kitchenowl))
+- Groceries/Clementines: Specifically Clementines ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.shaytech.groceries), [GitHub](https://github.com/davideshay/groceries/releases))
+- Grocy: Grocy ([F-Droid](https://f-droid.org/en/packages/xyz.zedler.patrick.grocy), [Play Store](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.grocy), [GitHub](https://github.com/patzly/grocy-android/releases))
+- KitchenOwl: ⭐️ KitchenOwl ([F-Droid](https://f-droid.org/en/packages/com.tombursch.kitchenowl), [Play Store](https://play.google.com/store/apps/details?id=com.tombursch.kitchenowl), [GitHub](https://github.com/TomBursch/kitchenowl/releases))
 - Mealie:
-  - Forage ([F-Droid](https://f-droid.org/en/packages/net.ser-forage))
-  - Mealient ([F-Droid](https://f-droid.org/en/packages/gq.kirmanak.mealient))
+  - Forage ([F-Droid](https://f-droid.org/en/packages/net.ser1.forage), [Source](https://hg.sr.ht/~ser/forage))
+  - Mealient ([F-Droid](https://f-droid.org/en/packages/gq.kirmanak.mealient), [Play Store](https://play.google.com/store/apps/details?id=gq.kirmanak.mealient), [GitHub](https://github.com/kirmanak/Mealient/releases))
   - Share to Mealie ([Play Store](https://play.google.com/store/apps/details?id=com.coffeeteers.sharetomealie))
 - Nextcloud Cookbook:
-  - Nextcloud Cookbook by lneugebauer ([F-Droid](https://f-droid.org/en/packages/de.lukasneugebauer.nextcloudcookbook))
-  - Nextcloud Cookbook by MicMun ([F-Droid](https://f-droid.org/en/packages/de.micmun.android.nextcloudcookbook))
-  - Nextcloud Cookbook by Teifun2 ([F-Droid](https://f-droid.org/en/packages/com.nextcloud_cookbook_flutter))
-- Tandoor: Untare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/unofficial.tandoor.recipes))
+  - Nextcloud Cookbook by lneugebauer ([F-Droid](https://f-droid.org/en/packages/de.lukasneugebauer.nextcloudcookbook), [Play Store](https://play.google.com/store/apps/details?id=de.lukasneugebauer.nextcloudcookbook), [GitHub](https://github.com/lneugebauer/nextcloud-cookbook/releases))
+  - Nextcloud Cookbook by MicMun ([F-Droid](https://f-droid.org/en/packages/de.micmun.android.nextcloudcookbook), [Play Store](https://play.google.com/store/apps/details?id=de.micmun.android.nextcloudcookbook), [Codeberg](https://codeberg.org/MicMun/nextcloud-cookbook/releases))
+  - Nextcloud Cookbook by Teifun2 ([F-Droid](https://f-droid.org/en/packages/com.nextcloud_cookbook_flutter), [Play Store](https://play.google.com/store/apps/details?id=com.nextcloud_cookbook_flutter), [GitHub](https://github.com/Teifun2/nextcloud-cookbook-flutter/releases))
+- Tandoor: Untare ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/unofficial.tandoor.recipes), [Play Store](https://play.google.com/store/apps/details?id=unofficial.tandoor.recipes), [GitHub](https://github.com/phantomate/Untare/releases))
 
 ## Download/Torrent client remote control
-- AriaNG: Aria2App ([F-Droid](https://f-droid.org/en/packages/com.gianlu.aria2app))
+- AriaNG: Aria2App ([F-Droid](https://f-droid.org/en/packages/com.gianlu.aria2app), [Play Store](https://play.google.com/store/apps/details?id=com.gianlu.aria2app), [GitHub](https://github.com/devgianlu/Aria2App/releases))
 - Deluge:
-  - Transdroid ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search))
-  - Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite))
-  - Trireme ([F-Droid](https://f-droid.org/en/packages/org.deluge.trireme))
-- PyLoad: pyLoad ⛔ ([F-Droid](https://f-droid.org/en/packages/org.pyload.android.client))
+  - Transdroid ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search), [GitHub](https://github.com/erickok/transdroid-search/releases))
+  - Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite), [Play Store](https://play.google.com/store/apps/details?id=org.transdroid.lite), [GitHub](https://github.com/erickok/transdroid/releases))
+  - Trireme ([F-Droid](https://f-droid.org/en/packages/org.deluge.trireme), [GitHub](https://github.com/teal77/trireme/releases/tag/v1.4.3))
+- PyLoad: pyLoad ⛔ ([F-Droid](https://f-droid.org/en/packages/org.pyload.android.client), [GitHub](https://github.com/pyload/pyload-android/releases)) - [discussion for supporting the newer pyload-ng](https://github.com/pyload/pyload-android/issues/42)
 - qBittorrent:
-  - qBitController ([F-Droid](https://f-droid.org/en/packages/dev.bartuzen.qbitcontroller), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.bartuzen.qbitcontroller))
-  - qBittorrent Manager ([F-Droid](https://f-droid.org/en/packages/dev.yashgarg.qbit))
-  - Transdroid ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search))
-  - Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite))
+  - qBitController ([F-Droid](https://f-droid.org/en/packages/dev.bartuzen.qbitcontroller), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.bartuzen.qbitcontroller), [Play Store](https://play.google.com/store/apps/details?id=dev.bartuzen.qbitcontroller), [GitHub](https://github.com/Bartuzen/qBitController/releases))
+  - qBittorrent Manager ([F-Droid](https://f-droid.org/en/packages/dev.yashgarg.qbit), [Play Store](https://play.google.com/store/apps/details?id=dev.yashgarg.qbit), [GitHub](https://github.com/Yash-Garg/qBittorrent-Manager/releases))
+  - Transdroid ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search), [GitHub](https://github.com/erickok/transdroid-search/releases))
+  - Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite), [Play Store](https://play.google.com/store/apps/details?id=org.transdroid.lite), [GitHub](https://github.com/erickok/transdroid/releases))
 - Transmission:
-  - Transdroid ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search))
-  - Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite))
-  - Transmissionic ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic))
-  - Tremotesf ([F-Droid](https://f-droid.org/en/packages/org.equeim.tremotesf))
+  - Transdroid ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.transdroid.search), [GitHub](https://github.com/erickok/transdroid-search/releases))
+  - Transdrone ([F-Droid](https://f-droid.org/en/packages/org.transdroid.lite), [Play Store](https://play.google.com/store/apps/details?id=org.transdroid.lite), [GitHub](https://github.com/erickok/transdroid/releases))
+  - Transmissionic ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sleroy.transmissionic), [GitHub](https://github.com/6c65726f79/Transmissionic/releases))
+  - Tremotesf ([F-Droid](https://f-droid.org/en/packages/org.equeim.tremotesf), [Play Store](https://play.google.com/store/apps/details?id=org.equeim.tremotesf), [GitHub](https://github.com/equeim/tremotesf-android/releases))
 
 ## Ebooks
-- Komga/Kavita: Tachiyomi + plugins ([GitHub](https://github.com/tachiyomiorg/tachiyomi/releases))
+- Kavita/Komga:
+  - Mihon + plugins ([GitHub](https://github.com/mihonapp/mihon/releases)) - [Kavita guide](https://wiki.kavitareader.com/guides/3rdparty/tachi-like), [Komga guide](https://komga.org/docs/guides/mihon/)
+  - ~~Tachiyomi + plugins ([GitHub](https://github.com/tachiyomiorg/tachiyomi/releases))~~ - [project discontinued](https://web.archive.org/web/20240613172135/https://tachiyomi.org/news/2024-01-13-goodbye)
 - OPDS ([more apps here](https://wiki.mobileread.com/wiki/OPDS)):
-  - FBReader ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.geometerplus.zlibrary.ui.android))
+  - FBReader ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.geometerplus.zlibrary.ui.android), [Play Store](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android), [Source](https://github.com/geometer/FBReaderJ))
   - Librera Pro ([F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/), [Play Store](https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader), [GitHub](https://github.com/foobnix/LibreraReader/releases))
-  - KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid))
+  - KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid), [GitHub](https://github.com/koreader/koreader/releases))
 
 ## Fediverse clients
 > Additional resources
@@ -143,69 +148,72 @@ This a list of known Android apps that work with self-hostable services.
 > - [Delightful Fediverse apps](https://codeberg.org/fediverse/delightful-fediverse-apps)
 
 - diaspora*:
-  - dandelior* ⚠️ ([F-Droid](https://f-droid.org/en/packages/net.gsantner.dandelior/))
-  - Insporation* ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jhass.eu.insporation))
+  - dandelior* ⚠️ ([F-Droid](https://f-droid.org/en/packages/net.gsantner.dandelior/), [GitHub](https://github.com/gsantner/dandelion/releases))
+  - Insporation* ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jhass.eu.insporation), [insporation F-Droid repository](https://jhass.github.io/insporation/fdroid/repo), [GitHub](https://github.com/jhass/insporation/releases))
 - Mastodon:
-  - AndStatus ([F-Droid](https://f-droid.org/en/packages/org.andstatus.app))
-  - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [💵 Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android))
-  - Firefly (nightly) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/social.firefly.nightly))
-  - Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky))
-  - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous))
-  - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki))
+  - AndStatus ([F-Droid](https://f-droid.org/en/packages/org.andstatus.app), [Play Store](https://play.google.com/store/apps/details?id=org.andstatus.app), [GitHub](https://github.com/andstatus/andstatus/releases))
+  - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android), [Source](https://codeberg.org/tom79/fedilab))
+  - Firefly (nightly) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/social.firefly.nightly), [GitHub](https://github.com/Firefly-Social/Firefly/releases))
+  - Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky), [GitHub](https://github.com/captainepoch/husky/releases))
+  - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous), [Play Store](https://play.google.com/store/apps/details?id=com.indieweb.indigenous), [Amazon AppStore](https://www.amazon.com/gp/product/B0C3KWR6V6), [Source](https://github.com/IndiePass/indiepass-android))
+  - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki), [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/releases))
   - ⭐️ Mastodon Android ([F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android), [Play Store](https://play.google.com/store/apps/details?id=org.joinmastodon.android))
-  - Milktea ([Play Store](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient))
-  - Megalodon ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android.sk), [Play Store](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk))
-  - Moshidon ([F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android.moshinda), [Play Store](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda))
-  - Pachli ([F-Droid](https://f-droid.org/en/packages/app.pachli))
-  - Shitter ([F-Droid](https://f-droid.org/en/packages/org.nuclearfog.twidda))
-  - Subway Tooter ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jp.juggler.subwaytooter.noFcm))
+  - Milktea ([Play Store](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient), [GitHub](https://github.com/pantasystem/Milktea/releases))
+  - Megalodon ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android.sk), [Play Store](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk), [GitHub](https://github.com/sk22/megalodon/releases))
+  - Moshidon ([F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.joinmastodon.android.moshinda), [Play Store](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda), [GitHub](https://github.com/LucasGGamerM/moshidon/releases))
+  - Pachli ([F-Droid](https://f-droid.org/en/packages/app.pachli), [Play Store](https://play.google.com/store/apps/details?id=app.pachli), [GitHub](https://github.com/pachli/pachli-android/releases))
+  - Shitter ([F-Droid](https://f-droid.org/en/packages/org.nuclearfog.twidda), [GitHub](https://github.com/nuclearfog/Shitter/releases))
+  - Subway Tooter ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jp.juggler.subwaytooter.noFcm), [GitHub](https://github.com/tateisu/SubwayTooter/releases))
   - tooot for Mastodon ([Play Store](https://play.google.com/store/apps/details?id=com.xmflsct.app.tooot))
-  - twitlatte ([F-Droid](https://f-droid.org/en/packages/com.github.moko25-twitlatte))
+  - ~~twitlatte ([F-Droid](https://f-droid.org/en/packages/com.github.moko256.twitlatte/), [Play Store](https://play.google.com/store/apps/details?id=com.github.moko256.twitlatte))~~ - [project discontinued](https://github.com/moko256/twitlatte/issues/77#issuecomment-1208025035)
   - Trunks for Mastodon ([Play Store](https://play.google.com/store/apps/details?id=com.decad3nce.trunks))
-  - Tusky ([F-Droid](https://f-droid.org/en/packages/com.keylesspalace.tusky), [Play Store](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky))
-  - Twidere ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.mariotaku.twidere/), [GitHub](https://github.com/TwidereProject/Twidere-Android/releases))
-  - Twidere X ([F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex), [GitHub](https://github.com/TwidereProject/TwidereX-Android/releases))
-  - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito))
+  - Tusky ([F-Droid](https://f-droid.org/en/packages/com.keylesspalace.tusky), [Play Store](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky), [GitHub](https://github.com/tuskyapp/Tusky/releases))
+  - Twidere ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.mariotaku.twidere/), [Play Store](https://play.google.com/store/apps/details?id=org.mariotaku.twidere), [GitHub](https://github.com/TwidereProject/Twidere-Android/releases))
+  - Twidere X ([F-Droid](https://f-droid.org/en/packages/com.twidere.twiderex), [Play Store](https://play.google.com/store/apps/details?id=com.twidere.twiderex), [GitHub](https://github.com/TwidereProject/TwidereX-Android/releases))
+  - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito), [GitHub](https://github.com/accelforce/Yuito/releases))
 - Pleroma/Akkoma:
-  - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android))
-  - Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky))
-  - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous))
-  - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki))
-  - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito))
+  - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android), [Source](https://codeberg.org/tom79/fedilab))
+  - Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky), [GitHub](https://github.com/captainepoch/husky/releases))
+  - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous), [Play Store](https://play.google.com/store/apps/details?id=com.indieweb.indigenous), [Amazon AppStore](https://www.amazon.com/gp/product/B0C3KWR6V6), [Source](https://github.com/IndiePass/indiepass-android))
+  - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki), [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/releases))
+  - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito), [GitHub](https://github.com/accelforce/Yuito/releases))
 - Misskey/Sharkey/Firefish/IceShrimp:
-  - Aria ([F-Droid](https://f-droid.org/en/packages/com.poppingmoon.aria/))
-  - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki))
-  - Milktea ([Play Store](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient))
+  - Aria ([F-Droid](https://f-droid.org/en/packages/com.poppingmoon.aria/), [GitHub](https://github.com/poppingmoon/aria/releases))
+  - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki), [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/releases))
+  - Milktea ([Play Store](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient), [GitHub](https://github.com/pantasystem/Milktea/releases))
+  - Miria ([GitHub](https://github.com/shiosyakeyakini-info/miria/releases))
   - *Some mastodon apps may also work*
 - Lemmy:
   - Boost for Lemmy ([Play Store](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy))
-  - Combustible ⏸️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.thebrokenrail.combustible))
+  - Combustible ⏸️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.thebrokenrail.combustible), [GitHub](https://github.com/TheBrokenRail/Combustible/releases))
   - Connect for Lemmy ([Play Store](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect))
-  - Eternity ([F-Droid](https://f-droid.org/en/packages/eu.toldi.infinityforlemmy), [Play Store](https://play.google.com/store/apps/details?id=eu.toldi.infinityforlemmy))
-  - ⭐️ Jerboa ([F-Droid](https://f-droid.org/en/packages/com.jerboa), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jerboa), [Play Store](https://play.google.com/store/apps/details?id=com.jerboa))
-  - Liftoff ⏸️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.liftoffapp.liftoff), [Play Store](https://play.google.com/store/apps/details?id=com.liftoffapp.liftoff))
-  - muffed ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.freshfieldreds.muffed))
-  - Raccoon ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.diegoberaldin.raccoonforlemmy.android), [GitHub](https://github.com/ImranR98/Obtainium/releases), [Play Store](https://play.google.com/store/apps/details?id=com.github.diegoberaldin.raccoonforlemmy.android))
+  - Eternity ([F-Droid](https://f-droid.org/en/packages/eu.toldi.infinityforlemmy), [Play Store](https://play.google.com/store/apps/details?id=eu.toldi.infinityforlemmy), [Codeberg](https://codeberg.org/Bazsalanszky/Eternity/releases))
+  - ⭐️ Jerboa ([F-Droid](https://f-droid.org/en/packages/com.jerboa), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jerboa), [Play Store](https://play.google.com/store/apps/details?id=com.jerboa), [GitHub](https://github.com/LemmyNet/jerboa/releases))
+  - Liftoff ⏸️ ([Play Store](https://play.google.com/store/apps/details?id=com.liftoffapp.liftoff), [GitHub](https://github.com/liftoff-app/liftoff/releases))
+  - ~~muffed ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.freshfieldreds.muffed), [GitHub](https://github.com/postbloomly/muffed/releases))~~ - [project archived](https://github.com/postbloomly/muffed/commit/0087a767ea8d5670e9fd2a04995a063bda6c9ec0)
+  - Raccoon for Lemmy ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.diegoberaldin.raccoonforlemmy.android), [Play Store](https://play.google.com/store/apps/details?id=com.github.diegoberaldin.raccoonforlemmy.android), [GitHub](https://github.com/ImranR98/Obtainium/releases))
   - Summit for Lemmy ([Play Store](https://play.google.com/store/apps/details?id=com.idunnololz.summit))
   - Sync for Lemmy ([Play Store](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync))
-  - Thunder ([IzzyOnDroid](), [Play Store](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder))
-  - Voyager ([F-Droid](https://f-droid.org/en/packages/app.vger.voyager), [Play Store](https://play.google.com/store/apps/details?id=app.vger.voyager))
+  - Thunder ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hjiangsu.thunder), [Play Store](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder), [GitHub](https://github.com/hjiangsu/thunder/releases))
+  - Voyager ([F-Droid](https://f-droid.org/en/packages/app.vger.voyager), [Play Store](https://play.google.com/store/apps/details?id=app.vger.voyager), [GitHub](https://github.com/aeharding/voyager/releases))
 - Pixelfed:
-  - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous))
-  - Pixelcat ⚠️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.connyduck.pixelcat))
-  - ⭐️ PixelDroid ([F-Droid](https://f-droid.org/en/packages/org.pixeldroid.app/))
-  - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito))
+  - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android), [Source](https://codeberg.org/tom79/fedilab))
+  - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous), [Play Store](https://play.google.com/store/apps/details?id=com.indieweb.indigenous), [Amazon AppStore](https://www.amazon.com/gp/product/B0C3KWR6V6), [Source](https://github.com/IndiePass/indiepass-android))
+  - Pixelcat ⚠️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/at.connyduck.pixelcat), [GitHub](https://github.com/pixelcatapp/Pixelcat/releases))
+  - ⭐️ Pixelfed ([Google Play](https://play.google.com/apps/testing/com.pixelfed))
+  - PixelDroid ([F-Droid](https://f-droid.org/en/packages/org.pixeldroid.app/), [Source](https://gitlab.shinice.net/pixeldroid/PixelDroid))
+  - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito), [GitHub](https://github.com/accelforce/Yuito/releases))
 
 ## File sync
-- Docspell: Docspell share ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.docspell.docspellshare))
-- Paperless:
-  - Paperless ⚠️ ([F-Droid](https://f-droid.org/en/packages/eu.bauerj.paperless_app), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app))
-  - Paperless Mobile ([F-Droid](https://f-droid.org/en/packages/de.astubenbord.paperless_mobile), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app))
-  - Paperless Share (upload only) ⚠️ ([F-Droid](https://f-droid.org/en/packages/com.quinncasey.paperless_share), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.quinncasey.paperless_share))
+- Docspell: Docspell share ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.docspell.docspellshare), [GitHub](https://github.com/docspell/android-client/releases))
+- Paperless-ngx:
+  - Paperless ⚠️ ([F-Droid](https://f-droid.org/en/packages/eu.bauerj.paperless_app), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app), [Play Store](https://play.google.com/store/apps/details?id=eu.bauerj.paperless_app), [GitHub](https://github.com/bauerj/paperless_app/releases))
+  - Paperless Mobile ([F-Droid](https://f-droid.org/en/packages/de.astubenbord.paperless_mobile), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.bauerj.paperless_app), [Play Store](https://play.google.com/store/apps/details?id=de.astubenbord.paperless_mobile), [GitHub](https://github.com/astubenbord/paperless-mobile/releases))
+  - Paperless Share (upload only) ⚠️ ([F-Droid](https://f-droid.org/en/packages/com.quinncasey.paperless_share), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.quinncasey.paperless_share), [Play Store](https://play.google.com/store/apps/details?id=com.quinncasey.paperless_share), [GitHub](https://github.com/qcasey/paperless_share/releases))
 - Syncthing:
-  - ⭐️ Syncthing ([F-Droid](https://f-droid.org/en/packages/com.nutomic.syncthingandroid))
-  - Syncthing-Fork ([F-Droid](https://f-droid.org/en/packages/com.github.catfriend-syncthingandroid))
-  - Syncthing-Lite ⚠️ ([F-Droid](https://f-droid.org/en/packages/net.syncthing.lite))
+  - ⭐️ Syncthing ([F-Droid](https://f-droid.org/en/packages/com.nutomic.syncthingandroid), [Play Store](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid), [GitHub](https://github.com/syncthing/syncthing-android/releases))
+  - Syncthing-Fork ([F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/), [Source](https://github.com/Catfriend1/syncthing-android-fdroid))
+  - ~~Syncthing-Lite ⚠️ ([F-Droid](https://f-droid.org/en/packages/net.syncthing.lite), [Source](https://github.com/syncthing/syncthing-lite))~~ - [project abandoned](https://github.com/syncthing/syncthing-lite/commit/d61a948ae8cad6790b22358118fda38b3087a428)
 
 ## Finance apps
 - Cospend: MoneyBuster ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.moneybuster))
@@ -281,11 +289,12 @@ This a list of known Android apps that work with self-hostable services.
   - SimpleLogin ([F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid))
 - Moodle: dawdle ([F-Droid](https://f-droid.org/en/packages/godau.fynn.moodledirect))
 - Moonlight: Moonlight Game Streaming ([F-Droid](https://f-droid.org/en/packages/com.limelight))
-- Other Nextcloud apps
+- Nextcloud apps
   - ⭐️ Nextcloud Deck ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.deck))
   - NextPush ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
   - Nextcloud Tables ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.tables))
 - PiHole: DroidHole ([GitHub](https://github.com/JGeek00/droid-hole/releases))
+- Plant-it: Plant-it ([F-Droid](https://f-droid.org/en/packages/com.github.mdeluise.plantit/), [GitHub](https://github.com/MDeLuise/plant-it/releases))
 - Presents: Presents - wishlist app ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lezsoft.presents))
 - RustDesk: ⭐️ RustDesk ([F-Droid](https://f-droid.org/en/packages/com.carriez.flutter_hbb))
 - Shlink: Shlink Manager ([Play Store](https://play.google.com/store/apps/details?id=dev.abmgrt.shlink_app), [GitHub](https://github.com/rainloreley/shlink-manager/releases))
@@ -302,7 +311,7 @@ This a list of known Android apps that work with self-hostable services.
   - AndroTainer ⚠️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dokeraj.androtainer))
   - Portarius ⚠️ ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/si.zbe.portarius))
 - Proxmox:
-  - ProxMon ([Play Store](https://play.google.com/store/apps/details?id=dev.reimu.proxmon&hl=en_US)])
+  - ProxMon ([Play Store](https://play.google.com/store/apps/details?id=dev.reimu.proxmon&hl=en_US))
   - ⭐️ Proxmox VE ([Play Store](https://play.google.com/store/apps/details?id=com.proxmox.app.pve_flutter_frontend))
 - S3 storage (Min.IO, etc.):
   - Asgardius S3 Manager ⚠️ ([Play Store](https://play.google.com/store/apps/details?id=asgardius.page.s3manager))
@@ -364,7 +373,7 @@ This a list of known Android apps that work with self-hostable services.
   - Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Play Store](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
   - FreshRSS ([F-Droid](https://f-droid.org/en/packages/fr.chenry.android.freshrss))
   - Readrops ([F-Droid](https://f-droid.org/en/packages/com.readrops.app))
-  - Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases)
+  - Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases))
 - Miniflux:
   - EasyRSS ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
   - FeedMe ([Play Store](https://play.google.com/store/apps/details?id=com.seazon.feedme&hl=en_US&gl=US), [GitHub](https://github.com/seazon/FeedMe/releases))
@@ -372,7 +381,7 @@ This a list of known Android apps that work with self-hostable services.
   - Flux News ([F-Droid](https://f-droid.org/en/packages/de.circle_dev.flux_news))
   - Miniflutt ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/be.martinelli.miniflutt))
   - News ([F-Droid](https://f-droid.org/en/packages/co.appreactor.news))
-  - Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases)
+  - Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases))
 - Nextcloud News:
   - OCReader ([F-Droid](https://f-droid.org/en/packages/email.schaal.ocreader))
   - Nextcloud News ([F-Droid](https://f-droid.org/en/packages/de.luhmer.owncloudnewsreader))
@@ -386,7 +395,7 @@ This a list of known Android apps that work with self-hostable services.
 - Yarr (via Fever API):
   - EasyRSS ⚠️ ([F-Droid](https://f-droid.org/en/packages/org.freshrss.easyrss))
   - Fluent Reader Lite ([GitHub](https://github.com/yang991178/fluent-reader-lite/releases), [Play Store](https://play.google.com/store/apps/details?id=me.hyliu.fluent_reader_lite))
-  - Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases)
+  - Read You ([F-Droid](https://f-droid.org/en/packages/me.ash.reader), [GitHub](https://github.com/Ashinch/ReadYou/releases))
 
 ## Time tracking
 - Kimai:
