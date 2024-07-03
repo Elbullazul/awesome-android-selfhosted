@@ -154,6 +154,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - AndStatus ([F-Droid](https://f-droid.org/en/packages/org.andstatus.app), [Play Store](https://play.google.com/store/apps/details?id=org.andstatus.app), [GitHub](https://github.com/andstatus/andstatus/releases))
   - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android), [Source](https://codeberg.org/tom79/fedilab))
   - Firefly (nightly) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/social.firefly.nightly), [GitHub](https://github.com/Firefly-Social/Firefly/releases))
+  - FocusMastodon ([F-Droid](https://f-droid.org/en/packages/allen.town.focus.mastodon/), [Play Store](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon), [Source](https://github.com/allentown521/FocusMastodon))
   - Husky ([F-Droid](https://f-droid.org/en/packages/su.xash.husky), [GitHub](https://github.com/captainepoch/husky/releases))
   - IndiePass ([F-Droid](https://f-droid.org/en/packages/com.indieweb.indigenous), [Play Store](https://play.google.com/store/apps/details?id=com.indieweb.indigenous), [Amazon AppStore](https://www.amazon.com/gp/product/B0C3KWR6V6), [Source](https://github.com/IndiePass/indiepass-android))
   - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki), [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/releases))
@@ -216,14 +217,14 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - ~~Syncthing-Lite ⚠️ ([F-Droid](https://f-droid.org/en/packages/net.syncthing.lite), [Source](https://github.com/syncthing/syncthing-lite))~~ - [project abandoned](https://github.com/syncthing/syncthing-lite/commit/d61a948ae8cad6790b22358118fda38b3087a428)
 
 ## Finance apps
-- Cospend: MoneyBuster ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.moneybuster))
+- Cospend: MoneyBuster ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.moneybuster), [Play Store](https://play.google.com/store/apps/details?id=net.eneiluj.moneybuster), [Source](https://gitlab.com/eneiluj/moneybuster))
 - Firefly III:
   - Abacus ([Play Store](https://play.google.com/store/apps/details?id=abacus.fireflyiii.android.app), [GitHub](https://github.com/victorbalssa/abacus/releases))
-  - Firefly III mobile ⚠️ ([F-Droid](https://f-droid.org/en/packages/xyz.hisname.fireflyiii))
-  - Waterfly III ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii))
-- InvoiceNinja: InvoiceNinja ([F-Droid](https://f-droid.org/en/packages/com.invoiceninja.app))
-- MyFin: MyFin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.afaneca.myfin))
-- Receipt Parser Server: Receipt Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.receipt_manager))
+  - Firefly III mobile ⚠️ ([F-Droid](https://f-droid.org/en/packages/xyz.hisname.fireflyiii), [Play Store](https://play.google.com/store/apps/details?id=xyz.hisname.fireflyiii), [Source](https://github.com/emansih/FireflyMobile))
+  - Waterfly III ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.dreautall.waterflyiii), [Play Store](https://play.google.com/store/apps/details?id=com.dreautall.waterflyiii), [GitHub](https://github.com/dreautall/waterfly-iii/releases))
+- InvoiceNinja: InvoiceNinja ([F-Droid](https://f-droid.org/en/packages/com.invoiceninja.app), [Play Store](https://play.google.com/store/apps/details?id=com.invoiceninja.app), [Source](https://github.com/invoiceninja/admin-portal))
+- MyFin: MyFin ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.afaneca.myfin), [Play Store](https://play.google.com/store/apps/details?id=com.afaneca.myfin), [Source](https://github.com/afaneca/myfin-android))
+- Receipt Parser Server ⚠️: Receipt Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.receipt_manager), [GitHub](https://github.com/ReceiptManager/receipt-manager-app/releases))
 
 ## GPS and tracking
 - FindMyDeviceServer: Find My Device ([F-Droid](https://f-droid.org/en/packages/de.nulide.findmydevice))
