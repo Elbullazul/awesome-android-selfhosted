@@ -152,6 +152,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - Insporation* ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/jhass.eu.insporation), [insporation F-Droid repository](https://jhass.github.io/insporation/fdroid/repo), [GitHub](https://github.com/jhass/insporation/releases))
 - Mastodon:
   - AndStatus ([F-Droid](https://f-droid.org/en/packages/org.andstatus.app), [Play Store](https://play.google.com/store/apps/details?id=org.andstatus.app), [GitHub](https://github.com/andstatus/andstatus/releases))
+  - Dhaaga (Lite) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.suvam.dhaaga.lite), [GitHub](https://github.com/suvam0451/dhaaga/releases))
   - Fedilab ([Fedilab F-Droid repository](https://fdroid.fedilab.app/), [F-Droid](https://f-droid.org/en/packages/fr.gouv.etalab.mastodon), [Play Store](https://play.google.com/store/apps/details?id=app.fedilab.android), [Source](https://codeberg.org/tom79/fedilab))
   - Firefly (nightly) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/social.firefly.nightly), [GitHub](https://github.com/Firefly-Social/Firefly/releases))
   - FocusMastodon ([F-Droid](https://f-droid.org/en/packages/allen.town.focus.mastodon/), [Play Store](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon), [Source](https://github.com/allentown521/FocusMastodon))
@@ -180,6 +181,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - Yuito ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.accelf.yuito), [Play Store](https://play.google.com/store/apps/details?id=net.accelf.yuito), [GitHub](https://github.com/accelforce/Yuito/releases))
 - Misskey/Sharkey/Firefish/IceShrimp:
   - Aria ([F-Droid](https://f-droid.org/en/packages/com.poppingmoon.aria/), [GitHub](https://github.com/poppingmoon/aria/releases))
+  - Dhaaga (Lite) ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/io.suvam.dhaaga.lite), [GitHub](https://github.com/suvam0451/dhaaga/releases))
   - Kaiteki ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki), [GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/releases))
   - Milktea ([Play Store](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient), [GitHub](https://github.com/pantasystem/Milktea/releases))
   - Miria ([GitHub](https://github.com/shiosyakeyakini-info/miria/releases))
@@ -192,7 +194,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - ⭐️ Jerboa ([F-Droid](https://f-droid.org/en/packages/com.jerboa), [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jerboa), [Play Store](https://play.google.com/store/apps/details?id=com.jerboa), [GitHub](https://github.com/LemmyNet/jerboa/releases))
   - Liftoff ⏸️ ([Play Store](https://play.google.com/store/apps/details?id=com.liftoffapp.liftoff), [GitHub](https://github.com/liftoff-app/liftoff/releases))
   - ~~muffed ([F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.freshfieldreds.muffed), [GitHub](https://github.com/postbloomly/muffed/releases))~~ - [project archived](https://github.com/postbloomly/muffed/commit/0087a767ea8d5670e9fd2a04995a063bda6c9ec0)
-  - Raccoon for Lemmy ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.diegoberaldin.raccoonforlemmy.android), [Play Store](https://play.google.com/store/apps/details?id=com.github.diegoberaldin.raccoonforlemmy.android), [GitHub](https://github.com/ImranR98/Obtainium/releases))
+  - ~~Raccoon for Lemmy ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.diegoberaldin.raccoonforlemmy.android), [Play Store](https://play.google.com/store/apps/details?id=com.github.diegoberaldin.raccoonforlemmy.android), [GitHub](https://github.com/ImranR98/Obtainium/releases))~~ - [app was discontinued](https://lemm.ee/post/38705570)
   - Summit for Lemmy ([Play Store](https://play.google.com/store/apps/details?id=com.idunnololz.summit))
   - Sync for Lemmy ([Play Store](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync))
   - Thunder ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hjiangsu.thunder), [Play Store](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder), [GitHub](https://github.com/hjiangsu/thunder/releases))
@@ -227,21 +229,21 @@ If the developer publishes APK builds, a link to the releases tab of their repos
 - Receipt Parser Server ⚠️: Receipt Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.receipt_manager), [GitHub](https://github.com/ReceiptManager/receipt-manager-app/releases))
 
 ## GPS and tracking
-- FindMyDeviceServer: Find My Device ([F-Droid](https://f-droid.org/en/packages/de.nulide.findmydevice))
-- Hauk: ⭐️ Hauk ([F-Droid](https://f-droid.org/en/packages/info.varden.hauk))
+- FindMyDeviceServer: Find My Device ([F-Droid](https://f-droid.org/en/packages/de.nulide.findmydevice), [Source](https://gitlab.com/Nulide/findmydevice))
+- Hauk: ⭐️ Hauk ([F-Droid](https://f-droid.org/en/packages/info.varden.hauk), [Play Store](https://play.google.com/store/apps/details?id=info.varden.hauk), [GitHub](https://github.com/bilde2910/Hauk/releases))
 - OwnTracks:
-  - ⭐️ OwnTracks ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.owntracks.android))
-  - PhoneTrack ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
+  - ⭐️ OwnTracks ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.owntracks.android), [Play Store](https://play.google.com/store/apps/details?id=org.owntracks.android), [GitHub](https://github.com/owntracks/android/))
+  - PhoneTrack ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack), [Source](https://gitlab.com/eneiluj/phonetrack-android))
 - Traccar:
-  - ⭐️ Traccar Client ([F-Droid](https://f-droid.org/en/packages/org.traccar.client))
-  - ⭐️ Traccar Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.traccar.manager))
-- μlogger: ⭐️ μlogger ([F-Droid](https://f-droid.org/en/packages/net.fabiszewski.ulogger))
+  - ⭐️ Traccar Client ([F-Droid](https://f-droid.org/en/packages/org.traccar.client), [Play Store](https://play.google.com/store/apps/details?id=org.traccar.client), [GitHub](https://github.com/traccar/traccar-client-android/releases))
+  - ⭐️ Traccar Manager ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.traccar.manager), [Play Store](https://play.google.com/store/apps/details?id=org.traccar.manager), [GitHub](https://github.com/traccar/traccar-manager-android/releases))
+- μlogger: ⭐️ μlogger ([F-Droid](https://f-droid.org/en/packages/net.fabiszewski.ulogger), [Source](https://github.com/bfabiszewski/ulogger-android/releases))
 
 ## Home automation
 - Home Assistant:
   - HA Kiosk ([Play Store](https://play.google.com/store/apps/details?id=com.coderats.hakiosk))
-  - ⭐️ Home Assistant ([F-Droid](https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal))
-- OpenHAB: ⭐️ openHAB ([F-Droid](https://f-droid.org/en/packages/org.openhab.habdroid/))
+  - ⭐️ Home Assistant ([F-Droid](https://f-droid.org/en/packages/io.homeassistant.companion.android.minimal), [GitHub](https://github.com/home-assistant/android/releases))
+- OpenHAB: ⭐️ openHAB ([F-Droid](https://f-droid.org/en/packages/org.openhab.habdroid/), [Play Store](https://play.google.com/store/apps/details?id=org.openhab.habdroid), [GitHub](https://github.com/openhab/openhab-android/releases))
 
 ## Media streaming
 - Audioserve: audioserve ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.zderadicka.audioserve))
