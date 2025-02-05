@@ -52,7 +52,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
 - Shaarli: Shaarlier ([F-Droid](https://f-droid.org/en/packages/com.dimtion.shaarlier), [GitHub](https://github.com/dimtion/Shaarlier/releases))
 - Wallabag:
   - KOReader ([F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid), [GitHub](https://github.com/koreader/koreader/releases))
-  - Frigoligo ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.casimirlab.frigoligo), [GitHub](https://github.com/casimir/frigoligo/releases))
+  - Frigoligo ([F-Droid](https://f-droid.org/packages/net.casimirlab.frigoligo), [GitHub](https://github.com/casimir/frigoligo/releases))
   - ⭐️ wallabag ([F-Droid](https://f-droid.org/en/packages/fr.gaulupeau.apps.InThePoche), [GitHub](https://github.com/wallabag/android-app/releases))
 
 ## Cloud sync
