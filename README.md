@@ -296,7 +296,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - ⭐️ Nextcloud Deck ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.deck))
   - NextPush ([F-Droid](https://f-droid.org/en/packages/net.eneiluj.nextcloud.phonetrack))
   - Nextcloud Tables ([F-Droid](https://f-droid.org/en/packages/it.niedermann.nextcloud.tables))
-- PiHole: DroidHole ([GitHub](https://github.com/JGeek00/droid-hole/releases))
+- ~~PiHole: ⛔ DroidHole ([GitHub](https://github.com/JGeek00/droid-hole/releases))~~
 - Plant-it: Plant-it ([F-Droid](https://f-droid.org/en/packages/com.github.mdeluise.plantit/), [GitHub](https://github.com/MDeLuise/plant-it/releases))
 - Presents: Presents - wishlist app ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lezsoft.presents))
 - RustDesk: ⭐️ RustDesk ([F-Droid](https://f-droid.org/en/packages/com.carriez.flutter_hbb))
