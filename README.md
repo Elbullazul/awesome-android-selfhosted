@@ -322,6 +322,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - S3Drive ([Play Store](https://play.google.com/store/apps/details?id=com.s3.drive.file.explorer.storage.cloud.manager))
 - UptimeRobot: UptimeRobot ([Play Store](https://play.google.com/store/apps/details?id=com.uptimerobot))
 - VPNs:
+  - BibaVPN: ⭐️ BibaVPN ([GitHub](https://github.com/Eljaja/BibaVPN/releases))
   - OpenVPN for Android ([F-Droid](https://f-droid.org/en/packages/de.blinkt.openvpn))
   - ⭐️ Tailscale ([F-Droid](https://f-droid.org/en/packages/com.tailscale.ipn), [Play Store](https://play.google.com/store/apps/details?id=com.tailscale.ipn))
   - WG Tunnel - Wireguard ([F-Droid](https://f-droid.org/en/packages/com.zaneschepke.wireguardautotunnel))
