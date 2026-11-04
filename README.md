@@ -265,6 +265,7 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - ⭐️ Jellyfin ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.mobile))
   - JellyBook ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.KaraWilson.JellyBook) - *ebooks only*)
   - Jellyfin for Android TV ([F-Droid](https://f-droid.org/en/packages/org.jellyfin.androidtv))
+  - Pixette ([Play Store](https://play.google.com/store/apps/details?id=app.moleson.pixette) - *photo slideshow, also Android TV; free, Premium in-app*)
   - Symfonium ([Play Store](https://play.google.com/store/apps/details?id=app.symfonik.music.player) - *music only*)
 - Subsonic:
   - Audinaut ⚠️ ([F-Droid](https://f-droid.org/en/packages/net.nullsum.audinaut))
@@ -354,7 +355,9 @@ If the developer publishes APK builds, a link to the releases tab of their repos
   - NextPass ([IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/eu.seldon1000.nextpass))
 
 ## Photos
-- Immich: ⭐️ Immich ([F-Droid](https://f-droid.org/en/packages/app.alextran.immich))
+- Immich:
+  - ⭐️ Immich ([F-Droid](https://f-droid.org/en/packages/app.alextran.immich))
+  - Pixette ([Play Store](https://play.google.com/store/apps/details?id=app.moleson.pixette) - *photo slideshow, also Android TV; free, Premium in-app*)
 - Librephotos:
   - ⭐️ Librephotos Mobile ([GitHub](https://github.com/LibrePhotos/librephotos-mobile/releases))
   - Uhuru Photos ([Play Store](https://play.google.com/apps/testing/com.savvasdalkitsis.uhuruphotos), [GitHub](https://github.com/savvasdalkitsis/uhuruphotos-android/releases))
